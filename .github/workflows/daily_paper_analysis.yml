@@ -11,16 +11,16 @@ jobs:
     timeout-minutes: 60  # 设置超时时间为5分钟
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
         cache: 'pip'  # 启用pip缓存
     
     - name: Cache papers directory
-      uses: actions/cache@v3
+      uses: actions/cache@v4
       with:
         path: papers
         key: ${{ runner.os }}-papers-${{ hashFiles('**/requirements.txt') }}
