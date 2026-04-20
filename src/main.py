@@ -51,7 +51,7 @@ def get_recent_papers(categories, max_results=MAX_PAPERS):
     """获取最近5天内发布的指定类别的论文"""
     # 计算最近5天的日期范围
     today = datetime.datetime.now()
-    five_days_ago = today - datetime.timedelta(days=3)
+    five_days_ago = today - datetime.timedelta(days=5)
     
     # 格式化ArXiv查询的日期
     start_date = five_days_ago.strftime('%Y%m%d')
@@ -71,8 +71,8 @@ def get_recent_papers(categories, max_results=MAX_PAPERS):
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending
     )
-    
-    results = list(search.results())
+    client = arxiv.Client()
+    results = list(client.results(search))
     logger.info(f"找到{len(results)}篇符合条件的论文")
     return results
 
