@@ -2,7 +2,7 @@ name: Daily Paper Analysis
 
 on:
   schedule:
-    - cron: '50 15 * * *'  # 每天 UTC 时间 00:00 运行
+    - cron: '20 16 * * *'  # 每天 UTC 时间 00:00 运行
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -11,16 +11,16 @@ jobs:
     timeout-minutes: 60  # 设置超时时间为5分钟
     
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v3
     
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
         python-version: '3.10'
         cache: 'pip'  # 启用pip缓存
     
     - name: Cache papers directory
-      uses: actions/cache@v4
+      uses: actions/cache@v3
       with:
         path: papers
         key: ${{ runner.os }}-papers-${{ hashFiles('**/requirements.txt') }}
