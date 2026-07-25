@@ -61820,3 +61820,107 @@ ISO为视觉语言模型的强化学习微调提供了一个关键实践指南�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-25)
+
+### 3D-Aware VLMs with Implicit and Explicit Geometries
+**作者**: Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Ran Xu, Shijian Lu, Gongjie Zhang
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21595v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### GraphVid: Interactive Graph-Controllable Video Generation
+**作者**: Vedant Shah, Onkar Susladkar, Tushar Prakash, Kiet Nguyen, Tianjio Yu, Adheesh Juvekar, Muntasir Waheed, Ismini Lourentzou
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21580v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$
+**作者**: Dawei Li, Xiaotian Jiang, Mingyi Hong
+**类别**: math.OC, cs.AI, cs.LG
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21579v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### Synthetic data generation framework for quality control automation in gravure printing
+**作者**: Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali, Andrea Trombin
+**类别**: cs.CV, cs.AI, cs.LG, eess.IV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21577v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity
+**作者**: Hongnan Ma, Yiwei Shi, Mengyue Yang, Weiru Liu
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21573v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana
+**作者**: T. Ansah-Narh, Y. Asare Afrane
+**类别**: cs.AI, cs.CE, cs.ET, stat.AP, stat.ML
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21559v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning
+**作者**: Baihui Wang, Bernard Koch
+**类别**: cs.AI
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21558v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### OpenForgeRL: Train Harness-native Agents in Any Environment
+**作者**: Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikhil Singh, Zhou Yu, Jianfeng Gao
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21557v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### Visual Contrastive Self-Distillation
+**作者**: Yijun Liang, Yunjie Tian, Yijiang Li, Yuqi Jia, Furong Huang, Tianyi Zhou, Di Fu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21556v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
+### MIRROR: Learning from the Other View for Multi-Modal Reasoning
+**作者**: Wen Ye, Yuxiao Qu, Aviral Kumar, Xuezhe Ma
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21552v1
+
+**论文分析出错**: The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.
+
+---
+
