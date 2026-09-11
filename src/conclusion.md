@@ -75831,3 +75831,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-11)
+
+### GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay
+**作者**: Boning Li, Longbo Huang
+**类别**: cs.DC, cs.AI, cs.GT, cs.MS, cs.PL
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11923v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### General Quantification of Covariate and Concept Shifts
+**作者**: Hongbo Chen, Li Charlie Xia
+**类别**: cs.LG, cs.AI, stat.ML
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11918v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Can Edge-Deployable Vision-Language Models Identify Species?
+**作者**: William Zhou, Mayukha Siripuram, Xiao Yan, Ziqi Liu, Yi Ding
+**类别**: cs.AI
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11916v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact
+**作者**: Masahiro Kato, Daiki Honma, Taka Kato
+**类别**: stat.ML, cs.AI, cs.LG, econ.EM, stat.ME
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11915v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Artificial Id: Drive and Persistent Alignment in Agentic AI
+**作者**: Yakov Pyotr Shkolnikov
+**类别**: cs.AI
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11911v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### AccelForge: Comprehensive Modeling and Co-Design Framework for AI Accelerators
+**作者**: Tanner Andrulis, Michael Gilbert, Vivienne Sze, Joel S. Emer
+**类别**: cs.AR
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11906v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### MindTopo: Can Foundation Models Reason in Topological Space?
+**作者**: Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Jianwen Lyu, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li
+**类别**: cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11900v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Domain-Specific Hallucination Detection in Large Language Models
+**作者**: Varun Teja Chundru, Debasmita Biswas
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11878v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens
+**作者**: Carl Edwards, Edward De Brouwer, Xiner Li, Namkyeong Lee, Ehsan Hajiramezanali, Anne Biton, Sara Mostafavi, Gabriele Scalia
+**类别**: q-bio.QM, cs.AI, cs.CL, q-bio.GN
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11877v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### On the Regularization Landscape for the Linear Recommendation Models
+**作者**: Dong Li, Zhenming Liu, Ruoming Jin, Hao Zhou, Zhi Liu, Jing Gao, Bin Ren
+**类别**: cs.AI
+**发布日期**: 2026-09-10
+**链接**: http://arxiv.org/abs/2609.11876v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
