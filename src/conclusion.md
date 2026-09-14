@@ -75935,3 +75935,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-14)
+
+### Rethinking Heterogeneous System Disaggregation for Subquadratic Attention
+**作者**: Arya Tschand, Yaosheng Fu, Vikram Sharma Mailthody, Nicolai Oswald, Po-An Tsai, Ritchie Zhao, Oreste Villa, Vijay Janapa Reddi, Karu Sankaralingam
+**类别**: cs.AI
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13134v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios
+**作者**: Seif ElDein Mostafa, Yahia Ahmed, Farah Datwish, Marwa Solayman
+**类别**: cs.AI
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13125v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation
+**作者**: Jinting Wang, Chenxing Li, Dong Yu, Li Liu
+**类别**: cs.AI, cs.SD
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13118v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC
+**作者**: Zhenfeng Gan, Yanbo Chen, Lirong Che, Junbo Tan, Xueqian Wang
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13083v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction
+**作者**: Baoyang Jiang, Fengchun Zhang, Leyuan Wang, Haotian Li, Yida Wang, Zhe Ji, Jinshan Lai, Xi Ren, Danyang Li, Zheng Yang, Jianwei Hu, Qiang Ma
+**类别**: cs.AI
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13082v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant
+**作者**: Yi-Jen Shih, Shih-Yun Shan Kuan, Guan-Ting Lin, Kai-Wei Chang, Siddhant Arora, Shu-wen Yang, Abdelrahman Mohamed, Shinji Watanabe, Hung-yi Lee, David Harwath
+**类别**: eess.AS, cs.AI, cs.CL
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13076v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval
+**作者**: Junghyun Min, Huseyin Uzunalioglu, Mohamed Trabelsi
+**类别**: cs.AI, cs.IR, cs.LG
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13073v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### MAxBench: A Multinomial Concept Recovery Benchmark
+**作者**: Divya Appapogu, Freya Behrens, Yonatan Belinkov, Aaron Mueller
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13072v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering
+**作者**: Kérian Fiter, Adil Lagrou, Franck Dervault, Bentley Oakes
+**类别**: cs.SE, cs.AI, cs.HC
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13071v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication
+**作者**: Sayantan Kumar, Nicolas Grimaldi, Jack Cummins, Jeremy C. Weiss
+**类别**: cs.AI
+**发布日期**: 2026-09-11
+**链接**: http://arxiv.org/abs/2609.13062v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
