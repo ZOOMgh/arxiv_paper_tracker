@@ -76039,3 +76039,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-15)
+
+### Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection
+**作者**: Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis
+**类别**: cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15989v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science
+**作者**: Honghao Lin, David P. Woodruff, Yuan Deng, Jieming Mao, Song Zuo, Vahab Mirrokni
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15983v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### The Router Within: Eliciting Native Skill Routing from a Frozen LLM
+**作者**: Ruishuo Chen, Xun Wang, Yu Chen, Zhuoran Li, Longbo Huang
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15982v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale
+**作者**: Aman Priyanshu, Supriti Vijay, Kimia Majd, Xuhong He, Fraser Burch, Takahiro Matsumoto, Jianliang He, Baturay Saglam, Arthur Goldblatt, Zhuoran Yang, Amin Karbasi
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15939v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Recurrent GraphNeural NetworkswithSet-BasedAggregation
+**作者**: Blai Bonet
+**类别**: cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15932v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress
+**作者**: Gaurav Tewari
+**类别**: cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15919v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection
+**作者**: Tong Jian, Aditya Thurvas Senthil Kumar, Xinyi Li, Ziling Chen, Tianyu Dai, Ali Sengul, Matteo Grimaldi, Wenjie Lu, Saleh Nabi, Tao Yu
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15910v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Cnuas: A Software-Defined AI/HPC Rack-scale Emulation Platform and Hyperscale Data Center Facility Twin
+**作者**: Weqaar Janjua, Eoin OConnell, Mihai Penica
+**类别**: cs.DC, cs.AR, cs.NI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15889v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI
+**作者**: Paul-Gabriel Nicolae, Irina Georgiana Mocanu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15888v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation
+**作者**: Zhen Zhong, Shini Yang, Liesheng Wei
+**类别**: cs.LG, cs.AI, cs.CE, cs.DB
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15885v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
