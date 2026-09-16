@@ -76143,3 +76143,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-16)
+
+### Agentic Societies Need a Social Harness
+**作者**: Tapan Chugh, Vidushi Singh, Krish Jain, Arvind Krishnamurthy, Ratul Mahajan
+**类别**: cs.MA, cs.AI, cs.NI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17527v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
+**作者**: Shuhan Xue, Jianyuan Zhong, Ziyuan Nan, Wenbin Li, Zhaochen Yu, Jinchao Ding, Qiang Gao, Pengyu Zhan, Yuntong Zhang, Tian Cheng, Zhenfei Yin, Yingcheng Wu, Ling Yang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17523v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control
+**作者**: Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17521v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control
+**作者**: Ali Şenol
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17516v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs
+**作者**: Thanapat Trachu, Samuele Cornell, William Chen, Shinji Watanabe
+**类别**: cs.SD, cs.AI, cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17509v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation
+**作者**: Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra
+**类别**: cs.LG, cs.AI, cs.RO
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17499v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Verifiable Social Reasoning for LLM Assistants
+**作者**: Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush, Itay Laish, Ariel Goldstein, Marian Croak, Avinatan Hassidim, Yossi Matias, Amir Feder
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17496v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence
+**作者**: Xingxuan Zhang, Gang Ren, Hao Yuan, Hao Zou, Hongze Tan, Hui Wang, Jianhao Song, Jiansheng Li, Jiayao Zhang, Jinghan Zhang, Kaifang Li, Lang Mo, Li Mao, Mingchao Hao, Nuo Xu, Rui Ding, Ruiji Zhang, Shuyang Li, Siyu Mei, Tianyang Zhang, Weiyang Mu, Yancheng Dong, Yongxian Wei, Yuan Xue, Yuanrui Wang, Yue He, Zijia Yang, Ziyun Li, Dongzhe Li, Fuqiang Wang, Jiandong Liu, Jiawei Chen, Jiaxin Du, Kaijie Cheng, Kehan Li, Lei Sun, Linjun Zhou, Ningbo Dai, Qi Wang, Renzhe Xu, Shaoxing Du, Shumeng Yang, Wang Lu, Wenjing Chu, Xiannan Huang, Xiaoyu Lin, Xing Ai, Xinyan Han, Xuanyue Li, Xuanyue Su, Xukun Zhang, Yan Lu, Yaxin Zhang, Yi Qin, Yifei Huang, Yihan Xu, Yongle Lv, Yuanyuan Jiang, Yushan Han, Peng Cui
+**类别**: cs.AI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17488v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection
+**作者**: Jiayi Zhou, David W. Johnston, Brinnae Bent
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17479v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management
+**作者**: Yuhua Chen
+**类别**: cs.AI, cs.PF
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17475v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
