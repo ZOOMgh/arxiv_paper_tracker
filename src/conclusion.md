@@ -76247,3 +76247,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-17)
+
+### Objective vs. Search: Decomposing What Makes a Good Tokeniser
+**作者**: Ahmetcan Yavuz, Clara Meister, Tiago Pimentel
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19145v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### A Zeroth-Order Paradigm for LLM Preference Alignment
+**作者**: Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19144v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation
+**作者**: Guanhua Ji, Tianyu Li, Dayoon Suh, Yuqian Zhang, Boyan Zhang, Nadia Figueroa
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19137v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments
+**作者**: João Meneses dos Santos, Arlindo L. Oliveira
+**类别**: cs.AI, cs.LG, cs.MA
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19128v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Affora: A Design System for Agent-Friendly Interfaces
+**作者**: Jin Gao
+**类别**: cs.HC, cs.AI, cs.SE
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19125v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Flag Game: A Toy Model for Mechanistic Swarm Interpretability
+**作者**: Elizabeth Pavlova, Hidenori Tanaka
+**类别**: cs.AI, cond-mat.dis-nn, cond-mat.stat-mech, cs.MA, physics.soc-ph
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19124v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Analog Pin Directionality as an Exfiltration Attack Surface in Mixed-Signal ICs
+**作者**: Ramana Ranganatham, Chirag Adiga, Michael Zuzak, Tejasvi Das
+**类别**: cs.CR, cs.AR
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19111v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference
+**作者**: Kaijun Zhou, Zhiyang Li, Le Chen, Jinyu Gu
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19104v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria
+**作者**: Abbas M. Rabiu, Abdulrazaq A. Zubair, Um-mulkhairi Ibrahim, Tolulope Olusuyi, Shaheeda Farouq, Safwan M. Dafi, Adaobi C. Emegoakor, Yewande Gbadamosi, Maruf Adewole
+**类别**: cs.CY, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19096v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation
+**作者**: Daniel P. Jeong, Charles Q. Li, Hossein Hosseiny, Nitya M. Bhalla, Fatma Uyar Morency, Pradeep Ravikumar, Zachary C. Lipton, Michael Oberst
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19093v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
