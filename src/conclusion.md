@@ -76351,3 +76351,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-18)
+
+### Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation
+**作者**: Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara
+**类别**: cs.RO, cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20822v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
+**作者**: Nitish Dashora, Douglas Chen, Idan Shenfeld, John Marangola, Pulkit Agrawal, Max Simchowitz
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20820v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations
+**作者**: Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu, Zhizhuo Zhou, Sayan Deb Sarkar, Konrad Schindler, Iro Armeni
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20817v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Paint-Anything: Unified Any-Color Control for Image Generation and Editing
+**作者**: Ji Xie, Dewei Zhou, Xinyu Huang, Zhennan Chen, Xun Wang
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20816v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis
+**作者**: Zahra Ghaffari, Massih Bahar, Mojgan Forootan, Ali Darvishi, Hamidreza Bolhasani
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20815v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Quantifying Overclaiming Propensity in Frontier LLM Agents
+**作者**: Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo, Saskia Helbling, Alberto Tosato, Mohamed Amine Merzouk, Nouha Dziri, Gauthier Gidel, Tommaso Tosato
+**类别**: cs.SE, cs.AI, cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20812v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### An Empirical Study of Harness Design for Coding Agents
+**作者**: Run-Ze Fan, Zihao Zhang, Simin Ma, Yebowen Hu, Shouju Wang, Kaiqiang Song, Fei Liu, Hamed Zamani, Xiaoyang Wang
+**类别**: cs.AI, cs.CL, cs.LG, cs.SE
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20804v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning
+**作者**: Yan Yu, Zhengxi Lu, Yizhou Liu, Yichen Pan, Aozhe Wang, Qipeng Chen, Hua Yang, Wenqi Zhang, Weiming Lu, Qianglong Chen, Yongliang Shen
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20784v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations
+**作者**: Sarah Wyer, Sue Black, Noura Al Moubayed
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20779v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies
+**作者**: Xin Chen, Sen Chen, Yujuan Ding, Jian Liu, Guoqing Wang, Wei Ye, Heng Tao Shen, Yi Bin
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20776v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
