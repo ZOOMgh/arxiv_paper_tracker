@@ -76663,3 +76663,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-21)
+
+### Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design
+**作者**: Hongyang Du, Lan Yan, Christian Flores, Asim Kadav
+**类别**: cs.AI, cs.CV
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.22086v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### CodeMidas: Scaling Agentic Coding RL Environments from Code Itself
+**作者**: Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang, Hanglong Lv, Yuanxin Liu, Wenhan Ma, Hao Tian, Rang Li, Jinhao Dong, Yikai Zhao, Xiangwei Deng, Hailin Zhang, Liang Zhao, Qi Liu, Lingpeng Kong, Tong Yang, Fuli Luo
+**类别**: cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.22068v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw
+**作者**: Renkai Ma, Ruyuan Wan, Xuan Lu, Fan Yang, Chen Chen, Lingyao Li
+**类别**: cs.HC, cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.22067v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Gricea: An Open Science Platform for Conversational AI Research
+**作者**: Nikhil Sharma, Yunlin Gong, Xinyang Cheng, Ziang Xiao
+**类别**: cs.HC, cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.22039v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### DiaVLo: Diagnosing Behaviours of Vision-Language Models
+**作者**: Lorenzo Corti, Jie Yang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.22008v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents
+**作者**: Hafsa Akbar, Daniel Platnick, Marjan Alirezaie, Hossein Rahnama
+**类别**: cs.MA, cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.21997v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal
+**作者**: Hiskias Dingeto
+**类别**: cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.21996v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities
+**作者**: Jagadeesh Balam, Travis Bartley, Edresson Casanova, Sanjay Chauhan, Chen Chen, Zhehuai Chen, Zijia Chen, Francesco Ciannella, Slyne Deng, Mikyas Desta, Harishchandra Dubey, Slim Essid, Nourchene Ferchichi, Boris Ginsburg, Mariana Graterol Fuenmayor, Negar Habibi, Kevin Hu, Anand Joseph, Viraj Karandikar, Myungjong Kim, Viacheslav Klimkov, Seelan Lakshmi Narasimhan, Lily Lee, Jason Li, Eileen Long, Ameya Mahabaleshwarkar, Aditya Malte, Adi Margolin, Sasha Meister, Valentin Mendelev, Oluwatobi Olabiyi, Ankita Pasad, Yifan Peng, Elena Rastorgueva, Jayda Ritchie, Jason Roche, Nikhil Srihari, Yuanhang Su, Yoshi Suhara, Viet Anh Trinh, Jinhan Wang, Piotr Zelasko, Hui Wang, Puhui Meng, Chaosen Zhang, Yunsheng Liu, Shawn Wang, Wenjing Li, Zhonglei He
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.21967v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Learning Cardiac Features: ECG Biometrics Across Time and~Exercise
+**作者**: Luca Thiebaud, Paul Chauchat, Mustapha Ouladsine, Stéphane Delliaux
+**类别**: cs.AI, q-bio.TO
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.21962v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence
+**作者**: Eshika Pathak, Leela Krishna
+**类别**: cs.RO, cs.AI, cs.HC
+**发布日期**: 2026-09-18
+**链接**: http://arxiv.org/abs/2609.21942v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
