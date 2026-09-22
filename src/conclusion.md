@@ -76767,3 +76767,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-22)
+
+### GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay
+**作者**: Yiran Wang, Xingyilang Yin, Junfu Pu, Guangzhi Wang, Kaifeng Li, Mingyu Ouyang, Huiqiang Sun, Lingen Li, Cheng Cheng, Wangbo Yu, Honghao Chen, Xiaodong Cun, Chi-Man Pun, Zhiguo Cao, Ying Shan
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.25001v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
+**作者**: Wangbo Yu, Kunhao Liu, Wenbo Hu, Shenghai Yuan, Chaoran Feng, Haiyang Zhou, Yukun Huang, Yiran Wang, Wang Zhao, Yingmin Luo, Ying Shan
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24984v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation
+**作者**: Haoran Yuan, Zekai Wang, Boning Shao, Haoran Lu, Trevor Darrell, Ismini Lourentzou, Wei Zhan
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24976v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Harness-Zero: Harness Distillation via Agent-as-Harness
+**作者**: Haoran Ye, Yuxing Lu, Haonan Dong, Zhaochen Su, Guojie Song
+**类别**: cs.AI, cs.CL, cs.NE
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24974v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+**作者**: Peng Xia, Rujun Han, Zifeng Wang, Yanfei Chen, Yufan Zhang, Yoonho Lee, Chengsong Huang, Han Yu, Zhongying CuiZhu, Yifei Ming, Huaxiu Yao, Burak Gokturk, Tomas Pfister, Chen-Yu Lee
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24972v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### DolphinBench: Mapping the Pareto Frontier of Agent Memory
+**作者**: Soumil Rathi, Deshraj Yadav, Taranjeet Singh
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24971v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Rare Event Estimation via Iterative Unalignment
+**作者**: Hanming Yang, Daksh Mittal, Jing Dong, Hongseok Namkoong
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24969v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Emergent Collusion in Long-Horizon LLM Agent Interaction
+**作者**: Xinrui Shi, Yanzhe Zhang, Diyi Yang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24967v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences
+**作者**: Boyuan Deng, Shuyi Fan, Hongyang Zhang, Xinhong Xie
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24965v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks
+**作者**: Muzhe Wu, Zuchen Li, Xu Wang, Anhong Guo
+**类别**: cs.HC, cs.AI
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24955v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
