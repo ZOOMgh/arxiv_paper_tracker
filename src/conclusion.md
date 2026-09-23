@@ -76871,3 +76871,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-23)
+
+### SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue
+**作者**: Haobo Zheng, Tan Tang, Yan Chen, Weijie Wang, Yingcai Wu
+**类别**: cs.CL, cs.AI, cs.IR, cs.LG
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26780v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents
+**作者**: Trang Nguyen, Eulrang Cho, Bingqing Chen, Tim Dettmers
+**类别**: cs.AI, cs.LG, cs.SE
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26779v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving
+**作者**: Jennifer Williams, Dave Farris, Jeff Farris, Jiantao Jiao
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26777v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem
+**作者**: Laizhen Li, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26761v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents
+**作者**: Laizhen Li, Jiarui Li, Juanjuan Zhao, Kejiang Ye, Ye Li, Cheng-zhong Xu, Xitong Gao
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26760v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It
+**作者**: Yu Sun, Junhao Xu
+**类别**: cs.AI
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26758v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### FleXray: Universal Clinical X-ray Segmentation
+**作者**: Victor Ion Butoi, Vivek Gopalakrishnan, John V. Guttag, Adrian V. Dalca, Neel Dey
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26756v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen
+**作者**: Om Nepal, Sushant Aryal, Oluseyi Olukola, Nick Rahimi
+**类别**: cs.SE, cs.AI, cs.CR
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26749v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows
+**作者**: Remy Stewart, Olabode Anise, Andrew Hogan, Augustus Griffin
+**类别**: cs.HC, cs.AI
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26725v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
+### The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence
+**作者**: Xiaoyu Yang, Jie Lu, Wei Duan, En Yu
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26718v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid
+
+---
+
