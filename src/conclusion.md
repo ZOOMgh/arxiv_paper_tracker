@@ -76975,3 +76975,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-24)
+
+### StudentBench: AI and human tutoring yield equivalent GRE learning gains
+**作者**: Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller
+**类别**: cs.AI, cs.CY
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28470v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 376bb074-cd17-40e0-ad6e-8f1bb1e52455)
+
+---
+
+### Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction
+**作者**: Zilin Fang, Zishuo Wang, Gim Hee Lee, David Hsu
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28467v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 854a075e-2053-48bc-a6af-90271f864759)
+
+---
+
+### Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark
+**作者**: Hamed Taherkhani, Mohammad Abdollahi, Melika Sepidband, Hridya Dhulipala, Tien N. Nguyen, Hadi Hemmati
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28449v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 993df464-45c2-4173-8a07-756716cc0c46)
+
+---
+
+### Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning
+**作者**: Zhixu Silvia Tao
+**类别**: cs.LG, cs.AI, cs.CL, cs.SC
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28442v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b46ce0ae-0615-4339-bef3-1a567f3a67db)
+
+---
+
+### Agent-Editing World Model: Rethinking World Modeling for LLM Agents
+**作者**: Shuang Sun, Guoxin Chen, Fanzhe Meng, Jia Deng, Huatong Song, Jinhao Jiang, Wayne Xin Zhao, Hongteng Xu, Ji-Rong Wen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28416v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3b6adb8c-f9d3-41da-b471-99e3c2bc5df3)
+
+---
+
+### Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model
+**作者**: Xiwen Chen, Rigaudiere Z. Li, Zhiruo Zhou, Xiaojun Zhu, Houde Liu
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28414v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 29a42777-51a6-4596-953a-7aebbcdcba61)
+
+---
+
+### Learning Holographic Reduced Representations with Clifford Variational Autoencoders
+**作者**: Mohamed Malek Abid, P. Michael Furlong
+**类别**: cs.LG, cs.AI, cs.NE
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28409v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 82e5e5ae-b8ed-4ed4-b594-ab8a38c734c6)
+
+---
+
+### When and Where to Trust the Teacher: Unifying On-Policy Distillation and GRPO through Entropy-Calibrated Credit Assignment
+**作者**: Jie Zhang, Jingxiao Yang, Zhehao Huang, Yuhang Liu, Xiaolin Huang
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28385v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d1ef74b1-de56-4ed3-9a00-9bff9241232f)
+
+---
+
+### Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer
+**作者**: Davood Wadi, Yu Ma
+**类别**: econ.GN, cs.AI
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28372v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 53d84594-e373-48cb-b63a-4f53fe9d2943)
+
+---
+
+### AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios
+**作者**: Zhipeng Bao, Wenjie Zhao, Tianle Zhu, Haohua Que, Chence Yang, Geng Yuan, Qianwen Li
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28366v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a0fa1811-3029-417a-bacb-350db4ff8f64)
+
+---
+
