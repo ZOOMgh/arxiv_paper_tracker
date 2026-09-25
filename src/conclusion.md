@@ -77079,3 +77079,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-25)
+
+### LLM Agents Can Easily Tamper With Their Own Traces
+**作者**: Jeremy Qin, David Schmotz, Derck Prinzhorn, Luca Beurer-Kellner, Ameya Prabhu, Maksym Andriushchenko
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30266v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4d9b75f2-7041-4a1b-a597-1c2f99dcff9c)
+
+---
+
+### AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control
+**作者**: Jiabin Qiu, Zixuan Chen, Hongye Cao, Jieqi Shi, Jing Huo, Yang Gao
+**类别**: cs.AI, cs.RO
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30264v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ee7c8813-1bc4-4887-8566-99b652f899f6)
+
+---
+
+### RAPID: Robot Agentic Programming from Demonstrations
+**作者**: Yuyao Liu, Jiayuan Mao, David Hsu, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30249v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4d76e750-6c60-4dae-927b-1d69b46e3e4a)
+
+---
+
+### Rolling-WAM: World Action Models with Rolling Imagination
+**作者**: Yinghua Zhou, Junjie Ye, Yiqi Zhao, Hao Dong, Celina Shiyu Wang, Ruohai Ge, Tingyi Yang, Basile Van Hoorick, Gaurav Sukhatme, Vitor Guizilini, Yue Wang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30247v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e07fb8b3-0a75-4939-a7c4-79b8796a98b8)
+
+---
+
+### Coding Agents for Generalized Task and Motion Planning Problems
+**作者**: Matteo Merler, Bowen Li, Josh Roy, Yichao Liang, Qianwei Wang, Yixuan Huang, Tom Silver
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30233v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1c0ed254-c3aa-433d-8214-550d478d323e)
+
+---
+
+### To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech
+**作者**: Debajyoti Mazumder, Mamta, Abhirama Subramanyam Penamakuri
+**类别**: cs.LG, cs.AI, cs.CL, cs.SD
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30227v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4cc938ad-1edf-435a-b506-e7d82e055026)
+
+---
+
+### PoEM: Predicting RL Outcomes from Existing Policies
+**作者**: Kimia Hamidieh, Giannis Daras, Antonio Torralba
+**类别**: cs.LG, cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30226v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: dae149e5-6034-456b-954d-8109ddce148f)
+
+---
+
+### TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations
+**作者**: Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang, Tanner Schmidt, Jakob Engel, Katerina Fragkiadaki, Adam W. Harley
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30222v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 611e9468-ec56-469a-8f90-475e757489ba)
+
+---
+
+### Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority
+**作者**: Mehmet Iscan
+**类别**: cs.SE, cs.AI, eess.SY
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30219v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3351fbda-da61-4201-b8c0-4fc8422aff3c)
+
+---
+
+### Minimally Invasive Steering of Language Models
+**作者**: Taha Entesari, Jingyu Zhang, Daniel Khashabi, Mahyar Fazlyab
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30218v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 86a2c27e-2888-4065-8419-646616a15a51)
+
+---
+
