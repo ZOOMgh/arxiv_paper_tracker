@@ -77391,3 +77391,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-28)
+
+### Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency
+**作者**: Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe, Chenrui Fan, Sourya Basu, Genta Indra Winata, Anirban Das, Soheil Feizi, Nima Chitsazan
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31619v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d288e99b-e4ab-4505-9738-1fbdbe225234)
+
+---
+
+### Statistical attribute alignment for black-box generative AI via output post-processing
+**作者**: Kevin Jiang, Morgane Austern, Edgar Dobriban, Jason M. Klusowski
+**类别**: stat.ME, cs.AI, cs.LG, math.ST
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31607v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e5c5ae21-b2c5-47c9-b96f-5ad800563230)
+
+---
+
+### Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer
+**作者**: Md Shohel Arman, Igor Molybog
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31587v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b9c03e27-bf04-4821-bac4-7c99d70aaf39)
+
+---
+
+### OC-GS: Gaussian Splatting for Irregular Turntable Capture
+**作者**: Jae Joong Lee, Bedrich Benes
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31572v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 92be67e1-22b1-42fb-ae92-1c2c037feb04)
+
+---
+
+### Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum
+**作者**: Fasika Melese, Ruiyang Wu, Xinyue Cui, Joanna Perkins, Xiaoyi Tian, Tiffany Barnes, Shiyan Jiang
+**类别**: cs.HC, cs.AI
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31569v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a408bbdd-3086-4219-92ab-a49f2075d3e3)
+
+---
+
+### DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education
+**作者**: Quang Nguyen, Hieu Nguyen, Hien Hoang, Toan Pham, Cong Tran, Nam Vu
+**类别**: cs.AI
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31568v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 453fcfa4-6844-4acc-9b32-ac3ccaac3210)
+
+---
+
+### Multi-agent Scaling Across Disjunctive and Compensatory Tasks
+**作者**: Carolina Fortuna, Blaz Bertalanic
+**类别**: cs.AI, cs.MA
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31563v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e7ca8d0f-7c8b-4a49-93fe-52ba4aab7417)
+
+---
+
+### A Flow Matching Framework for Neural Representational Dissimilarity
+**作者**: Zeyuan Ye, Xue-Xin Wei
+**类别**: cs.AI, cs.IT, cs.LG
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31544v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8ff08373-50b6-4083-9412-e7b1b60424ab)
+
+---
+
+### Can You Check That? The Checkability Boundary for Local LLM Network Automation
+**作者**: Maleeha Masood, Momina Nofal
+**类别**: cs.NI, cs.AI
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31540v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a17be6fd-66a1-4f0d-befb-29b9131043ec)
+
+---
+
+### ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos
+**作者**: Xuanzhi Liu, Xinyi Wu, Hang Pan, Wensi Huang, Zhenyao Wu, Ruize Han, Song Wang
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-25
+**链接**: http://arxiv.org/abs/2609.31509v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c0abbd58-b8f0-4070-a813-680a20aab664)
+
+---
+
