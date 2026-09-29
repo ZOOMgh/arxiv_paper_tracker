@@ -77495,3 +77495,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-29)
+
+### FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets
+**作者**: Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35770v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a9920ae0-52ca-4d20-859c-8434e206e2d1)
+
+---
+
+### Telescopic Language Models
+**作者**: Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Siyu Hong, Yixiao Liu, Adam Wu, Ashish Kumar Singh, Sakar Khattar, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35769v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c5eaf68f-b2a9-44f0-84ee-26d35b97b906)
+
+---
+
+### Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+**作者**: Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen, Wanqi Yin, Haiwen Diao, Ziwei Liu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35767v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: aba15533-f60a-4a3d-8f92-296d7ab8b300)
+
+---
+
+### TokenCast: Forecasting Token Consumption During LLM Agent Execution
+**作者**: Chaoqian Ouyang, Ling Yue, Libin Zheng, Huanghui Guo, Shengxiang Xu, YiShu Wang, Ran Li, Jian Yin, Shaowu Pan, Shimin Di
+**类别**: cs.LG, cs.AI, cs.SE
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35760v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4c3c9164-c5ec-4386-8324-fde87dac2c2c)
+
+---
+
+### How to Loop MoE: Flatten the Experts, Untie the Attention
+**作者**: Shouren Wang, Chuang Ma, Mohsen Hariri, Debargha Ganguly, Wang Yang, Xiaoqing Tong, Qianying Liu, Xiaotian Han, Vipin Chaudhary
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35751v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d60b3623-a095-4d6c-ae6d-b6b0e537bd9b)
+
+---
+
+### KV-streams for Efficient Compaction in Agentic Reinforcement Learning
+**作者**: Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda, Roger Creus Castanyer, Siddarth Venkatraman, Abhay Puri, Jonathan Light, Matthew James Sargent, Augustine N. Mavor-Parker, Massimo Caccia, Lucas Caccia, Glen Berseth, Esmeralda S. Whitammer, Alessandro Sordoni, Minseon Kim, Marc-Alexandre Côté, Laurent Charlin, Guillaume Lajoie
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35750v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f4718bc1-4e51-4fab-9b33-ba963f6c04da)
+
+---
+
+### Copy the Same, Distill the Difference: Initializing Linear Vision Transformers
+**作者**: Huaiyuan Qin, Muli Yang, Gabriel James Goenawan, Shiqi Huang, Min Kass Chong, Wahyu Wiratama, Peng Hu, Chen Gong, Wu Liu, Xi Peng, Chun Jian Ho, Hongyuan Zhu
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35745v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e1a68b9b-26f6-41fa-b8c3-1feaad14bfd6)
+
+---
+
+### FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents
+**作者**: Hoyoung Lee, Suyeol Yun, Jack Haverty, Yunju Cho, Meesong Kim, Daekyung Park, Sumin Kim, Jihoon Kwon, Jasmine Jia Geng, Andrew Chin, Yin Luo, Edward Tong, Yu Yu, Zach Golkhou, Minkyu Kim, Igor Halperin, Young Cha, Alejandro Lopez-Lira, Chanyeol Choi, Yongjae Lee
+**类别**: cs.AI, q-fin.CP
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35744v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a72ca101-f688-49a2-a2c3-7d2dca7ae164)
+
+---
+
+### Shockingly Simple Self-retrospection Improves Agentic Models Without RL
+**作者**: Jonathan Light, Christopher Zhang Cui, Jeonghye Kim, Roger Creus Castanyer, Emiliano Penaloza, Zhengyan Shi, Alessandro Sordoni, Marc-Alexandre Côté, Xingdi Yuan, Minseon Kim
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35741v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1191ff6e-f44b-403f-a046-732bc304432a)
+
+---
+
+### Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models
+**作者**: Junru Zhu, Shiming Xie, Aime Lu Fan Chen, Xiaoqing Ding, Chunxin Tang, Ruoyu Qi, Yulang Fei
+**类别**: cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35732v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3dfb725e-1b1b-4927-b4cb-fd5517e2eee5)
+
+---
+
