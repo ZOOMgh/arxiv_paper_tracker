@@ -77599,3 +77599,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-30)
+
+### Skill-Space Shooting for Autonomous Robot Policy Improvement
+**作者**: Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38178v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 746fbb23-38f1-446f-b7a5-b95dff003cf1)
+
+---
+
+### STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization
+**作者**: Bingchen Yao, Haobo Xu, Haokun Lin, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38169v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5b2dc4e8-0d1f-4073-b74a-29fe7a805f5d)
+
+---
+
+### LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization
+**作者**: Yi Pan, Haocheng Xi, Kan Zhu, Xingyang Li, Yibo Wu, Mayank Mishra, Hongtao Zhang, William X. Zheng, Baris Kasikci, Song Han, Kurt Keutzer, Rishabh Iyer, Ion Stoica
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38166v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f2b55ad4-22cc-4393-9c9c-fb3c53367006)
+
+---
+
+### Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies
+**作者**: Hui Ren, Lei Fan, Henry Pao, Han Guo, Zeeshan Zia, Ying Chen, Alexander Schwing, Gang Hua
+**类别**: cs.CV, cs.AI, cs.CL, cs.IR, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38155v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 86c6dc5a-d264-4306-8768-51dfc3872bae)
+
+---
+
+### Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning
+**作者**: Paras Dahal, Anton Bakhtin, Taco Cohen, Zhengxing Chen, Carole-Jean Wu, Rob Fergus, Scott Yih, Gabriel Synnaeve, Ruslan Salakhutdinov, Sanjeev Arora, Jason Weston, Anirudh Goyal
+**类别**: cs.AI
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38147v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0d4d4bc2-d0f1-4829-a05c-2a9d36fd8af9)
+
+---
+
+### Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI
+**作者**: Cheng Qian, Kunlun Zhu, Beibin Li, Zhenhailong Wang, Heng Ji
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38143v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c532c5a9-4a8c-4190-898f-537cdaf8d462)
+
+---
+
+### AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation
+**作者**: Rishabh Agrawal, Hejie Cui, Shasha Li, Shanchan Wu, Sercan Ö. Arık
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38142v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 01ca9863-3b31-47a6-9f66-96db0545d049)
+
+---
+
+### Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE
+**作者**: Yu Xu, Yuxin Zhang, Xiao Yang, Haotian Yang, Yizhi Wang, Xinwei Huang, Minxuan Lin, Angtian Wang, Chongyang Ma, Fan Tang
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38140v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 77e37e73-94a1-449f-abe1-ac41efd1b434)
+
+---
+
+### Stochastic World Models for Verifying Vision-Based Neural Feedback Systems
+**作者**: I. Samuel Akinwande, Mykel J. Kochenderfer, Clark Barrett
+**类别**: cs.AI, eess.SY
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38120v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6a8a69aa-d596-4e62-ac9e-e88b0d509588)
+
+---
+
+### How Local Mixing Encodes Relative Position in Global NoPE Attention
+**作者**: Cutter Dawes, Nick Alonso, Tom Figliolia, Beren Millidge
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38109v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b1563bae-d4af-4a24-a05e-269429232307)
+
+---
+
