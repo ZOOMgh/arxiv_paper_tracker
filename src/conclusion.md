@@ -77703,3 +77703,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-01)
+
+### Semifactual Credit-Augmented Policy Optimization
+**作者**: Junshu Pan, Zhizhang Fu, Shulin Huang, Yiran Ding, Zifan Cheng, Wenqi Shao, Qiaosheng Zhang, Yue Zhang
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40360v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5833019c-7e33-4efa-9781-73a802c5ecaa)
+
+---
+
+### ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing
+**作者**: Xinghao Chen, Xiangbo Gao, Jiongze Yu, Yuheng Wu, Zhengzhong Tu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40356v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 820f9ad5-c515-486f-8cdf-51c2d4f03605)
+
+---
+
+### Turbo Harness: Instance-Adaptive Harness Optimization
+**作者**: Tunyu Zhang, Hao Wang, Kai Xu, Dimitris N. Metaxas
+**类别**: cs.AI
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40330v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 7258c398-3d7c-48cc-8527-76f8eb9efc0e)
+
+---
+
+### WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents
+**作者**: Ziyan Jiang, Jingbo Yang, Jiabao Ji, Yujian Liu, Qiucheng Wu, Tommi Jaakkola, Yang Zhang, Shiyu Chang
+**类别**: cs.AI
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40325v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 81d048fd-66dc-4d9e-b83d-6490ad94daee)
+
+---
+
+### Cogentic: Multi-Agent Orchestration for Automated Proof Discovery
+**作者**: Yang Cai, Vineet Gupta, Yanchen Jiang, Christopher Liaw, Aranyak Mehta, Grigoris Velegkas, Di Wang
+**类别**: cs.AI, cs.GT
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40324v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ab6fe9ee-301f-4090-ab8b-c803686fc645)
+
+---
+
+### MatLoom: Layered Text-to-Material Generation in a Compact Program Space
+**作者**: Anson Y. Lam, Shuqing Li, Michael R. Lyu
+**类别**: cs.CV, cs.AI, cs.CL, cs.MM
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40322v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3b64b061-0d4d-4e29-9aa2-570e3343429a)
+
+---
+
+### Scaling Laws for Looped Mixture of Experts
+**作者**: Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40316v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fd9f0c34-ceda-4575-af2c-69f062cc4f40)
+
+---
+
+### DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents
+**作者**: Haoyuan Deng, Jiebin Liu, Tengxiao Zhang, Langning Yan, Hongye Cao, Ziwei Wang
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40306v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1d484817-dafc-41bc-b31a-2b2b0bdf444f)
+
+---
+
+### How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?
+**作者**: Kirill Brilliantov, Alejandro Hernández-Cano, Emmanuel Abbé
+**类别**: cs.AI
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40303v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1582ae65-6b2a-416f-81d4-2deca81b370d)
+
+---
+
+### CAS II: Symmetric Partitions as Kolmogorov Models
+**作者**: Romie Banerjee
+**类别**: cs.IT, cs.AI, math.GR
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40290v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6a006b35-d12f-4359-9311-aaad2f02de87)
+
+---
+
