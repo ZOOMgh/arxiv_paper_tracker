@@ -77911,3 +77911,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-03)
+
+### One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars
+**作者**: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev
+**类别**: cs.CV, cs.AI, cs.HC, cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02207v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d6a53b5f-a638-4d28-a1e9-3a951a90d947)
+
+---
+
+### KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards
+**作者**: Pengfei Li, Naufal Suryanto, Sicheng Zhang, Muzammal Naseer
+**类别**: cs.CL, cs.AI, cs.CR
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02206v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a93331fd-d36e-48d7-ba36-369f8cc4afda)
+
+---
+
+### Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
+**作者**: Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui Ye, Rocky Duan, Nika Haghtalab, S. Shankar Sastry, Pieter Abbeel, Haozhi Qi
+**类别**: cs.RO, cs.AI, eess.SY
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02204v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 333a2ebd-fbc6-437a-a9fa-13cd31f4f417)
+
+---
+
+### ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research
+**作者**: Sohyeon Kim, Yoonho Lee, Bo Liu, Dayoon Ko, Rulin Shao, Seungone Kim, Graham Neubig, Pang Wei Koh, Aakanksha Chowdhery, Akari Asai, Omar Khattab, Yejin Choi, Gunhee Kim, Chelsea Finn
+**类别**: cs.AI, cs.CL, cs.IR
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02202v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3c6229ad-92b3-4c04-add7-79087587ca80)
+
+---
+
+### SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation
+**作者**: Tianjiao Yu, Xinzhuo Li, Yifan Shen, Ying Shen, Kiet A. Nguyen, Adheesh Sunil Juvekar, Ismini Lourentzou
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02201v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a9a24039-5481-4121-a77d-6792ef314636)
+
+---
+
+### VISTA: A Visual Harness for Reasoning in an Interactive World
+**作者**: Qiushi Han, Keya Hu, Linlu Qiu, Cathy Wu, Kaiming He
+**类别**: cs.AI, cs.CV
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02200v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1acaf549-ce30-4ab0-8928-fe331b39df44)
+
+---
+
+### FERPO: Forward Entropy-Regularized Policy Optimization
+**作者**: Sebastian Sanokowski, Alireza Sarmadi, Majid Khadiv
+**类别**: cs.LG, cs.AI, cs.RO, stat.ML
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02198v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3015e618-9670-4af5-882f-a16c5735b598)
+
+---
+
+### Hierarchical Continuous Diffusion Language Models
+**作者**: Hui Ren, Zihan Li, Chang Liu, Huidong Liu, Alexander Schwing
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02193v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c1de6fc9-8765-4f87-bbeb-67d6d942cd78)
+
+---
+
+### DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation
+**作者**: Zhengming Yu, Junkun Yuan, Haotian Yang, Gordon Guocheng Qian, Yizhi Wang, Angtian Wang, Yiding Yang, Bo Liu, Xin Li, Wenping Wang, Chongyang Ma
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02188v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f01c8a20-8708-4624-ab27-e1c261288f72)
+
+---
+
+### Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry
+**作者**: Yiming Huang, Yujie Zeng, Vijay Prakash Dwivedi, Simone Foti, Jianmin Wang, Jure Leskovec, Tolga Birdal
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02186v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 153e36ca-c626-43f7-91be-002d08fcefc8)
+
+---
+
