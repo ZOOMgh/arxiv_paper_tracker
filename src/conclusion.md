@@ -78119,3 +78119,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-05)
+
+### Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis
+**作者**: Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen, Jeremy Collins, James Hays, Shreyas Kousik, Animesh Garg
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03717v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1099c14b-2a14-4e74-a1ef-68ac8a00ab2d)
+
+---
+
+### 4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes
+**作者**: Ruihong Shen, Žiga Kovačič, Peter Kulits, Xingrui Wang, Zizhang Li, Joshua B. Tenenbaum, Alan Yuille, Jieneng Chen, Jiajun Wu
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03715v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 7350dce4-20db-4ec4-b49a-ee27c90ac353)
+
+---
+
+### What Should World Models Forget? Stratified Retention for Continual Adaptation
+**作者**: Nishit Anand, Ramani Duraiswami, Dinesh Manocha
+**类别**: cs.LG, cs.AI, cs.CV, eess.IV, eess.SP
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03713v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b8df743c-9331-408c-8675-ed9851dc2ed0)
+
+---
+
+### EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras
+**作者**: Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth Mahapatra, Carmelo Sferrazza, Jiahui Lei, Jitendra Malik, C. Karen Liu, Ken Goldberg, Angjoo Kanazawa
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03710v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: cbc9d9e1-668b-4580-b57f-d050ed6616fe)
+
+---
+
+### Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies
+**作者**: Jungkyu Park, Dhruva Biswas, Joseph Cappadona, Cerise Tang, Ken G. Zeng, Bartosz Machura, Chuwen Liu, Paolo Tarantino, Coral Omene, Francisco J. Esteva, Rohit Bhargava, Marcin Braun, Kamila Paździerz, Jakub Czerwiński, Hanna Romańska-Knight, Albert Grinshpun, Bareket Daniel, Michele Buchinger, Frederick Howard, Piotr Wysocki, Brie Chun, Freya Schnabel, Rich Caruana, Jan Witowski, Krzysztof J. Geras
+**类别**: cs.AI
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03693v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 9495ef93-7452-48b4-9286-212acad4c051)
+
+---
+
+### FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution
+**作者**: Hui Chen, Xuan Qi, James Xu Zhao, Zhaopeng Feng, Shilong Liu, Kuang Xu, Pang Wei Koh, Bryan Hooi
+**类别**: cs.NE, cs.AI, cs.CL
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03675v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f753631b-dd2c-4c28-90d0-aa3b8f3984bd)
+
+---
+
+### Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles
+**作者**: Junyoung Koh, Hao-Wen Dong
+**类别**: cs.SD, cs.AI
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03656v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b7162a8a-cd8b-44e3-9c62-dd3dbc001f97)
+
+---
+
+### MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search
+**作者**: Sean Culatana, Shang-En Huang, Kang Li
+**类别**: cs.AI, cs.IR
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03651v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 68ecd898-4d8f-46fe-bd46-f717749c03f8)
+
+---
+
+### On-Board Anomaly Detection for Efficient Marine Environmental Monitoring
+**作者**: Thomas Goudemant, Clotilde Szywala, Benjamin Francesconi, Michelle Aubrun, Yves Bobichon, Marjorie Bellizzi, Adrien Girard
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03649v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c3b3e26d-68bf-4cb8-91f1-95f2c790c7a0)
+
+---
+
+### Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System
+**作者**: Rubén Manrique, Michelle Castellanos, Jorge Morales, Juan David Gutiérrez, Antonio Barreto Rozo, Joaquín Vélez Navarro
+**类别**: cs.AI, cs.CY
+**发布日期**: 2026-10-02
+**链接**: http://arxiv.org/abs/2610.03639v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 06f95e26-86fe-4fa8-aaaa-80004a95dbfa)
+
+---
+
