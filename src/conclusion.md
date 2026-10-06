@@ -78223,3 +78223,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-06)
+
+### One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline
+**作者**: Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang, Hsi-An Chen, Chun-Wei Tuan Mu, Yu-Lun Liu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06852v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 358a8707-c9e1-46aa-a8f5-420e6b77f78e)
+
+---
+
+### Base Models Can Reason By Taking a Cue From Training Data
+**作者**: Sophie L. Wang, Amil Dravid, Rulin Shao, Kevin Farhat, Sewon Min, Alexei A. Efros
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06851v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 359291fe-28ed-411c-a6dd-ce2ff2da1a61)
+
+---
+
+### BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance
+**作者**: Haojin Deng, Zhiping Lin, Yimin Yang
+**类别**: cs.AI
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06846v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c5138373-0e77-44c2-98db-27c3f99eeca8)
+
+---
+
+### Learning to Read the Contextual Tokens in Diffusion Transformers
+**作者**: Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06844v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 03a2cfa7-af15-4c7b-bd76-db13b64f2307)
+
+---
+
+### Recursive Video In-Context Learning for Agentic Robot
+**作者**: Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang
+**类别**: cs.RO, cs.AI, cs.CL, cs.MA
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06843v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1ec0b678-4d90-4508-82d2-d8743abf0457)
+
+---
+
+### UniSlider: Perceptually Uniform Sliders for Continuous Image Editing
+**作者**: David Serrano-Lozano, Duygu Ceylan, Yannick Hold-Geoffroy, Iliyan Georgiev, Javier Vazquez-Corral, Anna Frühstück
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06831v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 481b0d3e-ee67-4beb-aa6b-00bb134fe1ce)
+
+---
+
+### MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents
+**作者**: Haozhen Zhang, Haodong Yue, Quanyu Long, Jianzhu Bao, Qingyuan Liu, Tao Feng, Bohan Liu, Weida Liang, Wenya Wang
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06830v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 25d41273-4a57-41c4-aa72-899a2efbca9c)
+
+---
+
+### CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling
+**作者**: Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06829v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4346d422-8a91-4f66-99b8-a48f29ebf521)
+
+---
+
+### TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts
+**作者**: Oliver Jaffe, Dane Sherburn
+**类别**: cs.AI
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06824v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4d2c854b-44d2-4a02-a614-8f56a3f1a271)
+
+---
+
+### Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors
+**作者**: Tanbin Islam Rohan, Pranjol Sen Gupta, Tanusree Debi, Nazmus Sakib
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06823v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c1ac276d-774e-4a6d-88d5-1cd781c38100)
+
+---
+
