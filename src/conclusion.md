@@ -78327,3 +78327,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-07)
+
+### 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction
+**作者**: Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen, Cheng Zhang
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08782v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 31283bea-570f-4f12-9e0e-8480b1af02be)
+
+---
+
+### IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas
+**作者**: Ziyu Chen, Yilun Zhao, Jiashuo Sun, Yiling Ma, Manasi Patwardhan, Arman Cohan
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08781v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 543224e2-2b19-41c5-be4f-35c02233a822)
+
+---
+
+### DepthWorld: 3D World Model for Robot Manipulation
+**作者**: Jai Bardhan, Josef Sivic, Vladimir Petrik
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08780v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f6f41918-6ff2-47bc-a1ca-6b425b15d606)
+
+---
+
+### Sherpa: Teaching LLMs to Teach Adaptively
+**作者**: Weixian Xu, Yanzhe Zhang, Zora Zhiruo Wang, Changyu Chen, Diyi Yang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08778v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fd933181-ed7e-4427-b710-f028be89abfa)
+
+---
+
+### Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?
+**作者**: Ankit Sonthalia, Haritz Puerto, Alexander Rubinstein, Martin Gubri, Seong Joon Oh
+**类别**: cs.AI
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08775v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f937d769-fe38-409e-a1b2-f155c66b28b1)
+
+---
+
+### AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model
+**作者**: Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma, Nils Lukas
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08773v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: eded0e71-459f-410b-801e-2ff2b11fbe72)
+
+---
+
+### VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning
+**作者**: Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao, Chensheng Peng, Boyi Li, Thomas Tian, Zheng Lian, Yan Wang, Jiaqi Ma, Boris Ivanovic, Marco Pavone, Wenhao Ding
+**类别**: cs.AI, cs.RO
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08761v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 89ddfae5-09a9-4a8c-915d-e3b64c9ed329)
+
+---
+
+### WorldSonus: Bringing Sound to Worlds
+**作者**: Pengjun Fang, Jingyi Fa, Kam Man Wu, Jiaming Wang, Haoyuan Huang, Yaguang Wu, Xiangjun Huang, Ziyang Ma, Weijia Chen, Hongyu Liu, Zeyue Tian, Qifeng Chen
+**类别**: cs.SD, cs.AI, cs.CV, eess.AS
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08760v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 45c3c5a2-bc70-4782-a54e-c2aef67a5d2e)
+
+---
+
+### Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation
+**作者**: Wenwen Si, Honghao Wei
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08743v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 65a02fb9-0d5a-45bd-9f23-e0c498f4e58d)
+
+---
+
+### EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning
+**作者**: Lihan Zha, Shresth Grover, Tenny Yin, Samuel M. Bateman, Hengkai Pan, Mengchao Zhang, Aykut Onol, Allen Z. Ren, Dhruv Shah, Anirudha Majumdar
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08726v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1d472755-76ff-44f8-8fda-49c951ce43f3)
+
+---
+
