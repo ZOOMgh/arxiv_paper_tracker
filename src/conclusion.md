@@ -78431,3 +78431,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-08)
+
+### Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos
+**作者**: Shravan Chaudhari, William Paul, Suchi Saria, Rama Chellappa, Homanga Bharadhwaj
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10538v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f4aabbc1-5c6e-4298-a36b-136cbe49ddf3)
+
+---
+
+### Decoupling Exploration from Optimization in RLVR
+**作者**: Saif Punjwani, Micah Goldblum
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10536v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 2815f69a-7418-4318-b066-2545f7cbbf37)
+
+---
+
+### Long-WAM: Scaling the Context of World-Action Models
+**作者**: Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu, Shuai Yang, Weian Mao, Luozhou Wang, Yicheng Xiao, Weifeng Lin, Qixin Hu, Bryan Chu, Sifei Liu, Linxi Fan, Xiaojuan Qi, Song Han, Yukang Chen
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10528v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8f997d22-a164-4495-b29a-95a8d93f0549)
+
+---
+
+### RoboJEPA: Scaling Robotic Latent World Models
+**作者**: Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan, Sarath Chandar, Tushar Nagarajan, Daniel Severo, Koustuv Sinha, Michal Drozdzal, Adriana Romero Soriano, Jeannette Bohg, Nicolas Ballas, Mahmoud Assran
+**类别**: cs.AI, cs.RO
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10515v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 96d55cfe-fdbd-4dd0-82fd-da5fc8ec756d)
+
+---
+
+### SciExam for ENSO: Can AI Agents Build Climate Models?
+**作者**: Yinling Zhang, Langchen Liu, Dongbin Xiu, Xueyan Zou, Xu Kuang, Mengdi Wang, Shilong Liu
+**类别**: cs.AI, cs.LG, physics.ao-ph
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10513v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d4b7025d-188e-4ff7-bb71-9938e34daed0)
+
+---
+
+### RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing
+**作者**: Yilun Hao, Krishna Sayana, Isabella Ye, James S Ren, Sukhdeep Sodhi, Craig Boutilier, Chuchu Fan
+**类别**: cs.AI
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10507v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 98836866-1e70-49a2-b02a-b3726b83a797)
+
+---
+
+### Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models
+**作者**: Daniel Robert Kling Alexander, Catherine Louise Kling
+**类别**: cs.AI, cs.CL, econ.GN
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10506v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5754e547-fdae-493e-851f-74c2f01f7f62)
+
+---
+
+### EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution
+**作者**: Python Song, Zhixuan Liang, Kelsey Fu, Mengdi Wang, Junfeng Yang, Shilong Liu
+**类别**: cs.AI
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10498v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 97f07182-6143-475e-b4e8-9bafd8faa0ff)
+
+---
+
+### Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models
+**作者**: Tan Yu, Alexander Bukharin, Khushi Bhardwaj, Jennifer Williams, Zirui Liu, Jonathan Lingjie Li, Soumye Singhal, Joseph Jennings, Sanjeev Satheesh, Yash Jain, Ashish Vaswani, Venkat Krishna Srinivasan, Matthew Papakipos, Hyunwoo Kim, Jian Zhang, Oleksii Kuchaiev, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jonathan Cohen, Jiantao Jiao
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10478v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d1846be1-cff4-4ce0-af3d-837ffb18f373)
+
+---
+
+### A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents
+**作者**: Ali Asaria, Deep Gandhi, Tony Salomone
+**类别**: cs.MA, cs.AI
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10468v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ea0a780e-3dec-4568-afa4-c683bc201c15)
+
+---
+
