@@ -78639,3 +78639,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-10)
+
+### On the estimation and validity of AI time horizons---a statistical look at the METR plot
+**作者**: Drew T. Nguyen, William Fithian
+**类别**: cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12466v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 7180884c-bb78-49aa-af2d-c714798248d3)
+
+---
+
+### From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents
+**作者**: Abbas Raftari
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12463v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ad652df3-8ef8-4423-8fc7-1a90cec5eb20)
+
+---
+
+### BrickBench: Evaluating Agentic Brick Design
+**作者**: Peter Kulits, Yiqing Xu, R. Kenny Jones, Cordelia Schmid, Jiajun Wu
+**类别**: cs.AI, cs.CV, cs.GR
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12452v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0c133e74-0641-48bf-93e7-8bf0dcf4c35d)
+
+---
+
+### Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems
+**作者**: Anna Zimmel, Fleur Hendriks, Markus Holzleitner, Florian Sestak, Martin Weichselbaumer, Vlado Menkovski, Johannes Brandstetter
+**类别**: cs.LG, cs.AI, cs.CE, physics.comp-ph
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12449v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 042d329d-d8ca-4f37-8140-0e885ebcc7b8)
+
+---
+
+### Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception
+**作者**: Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba, Adam Gleave, Chris Cundy
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12445v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: cbb52359-d425-47d8-8d0f-aa77e56d88dc)
+
+---
+
+### Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff
+**作者**: Erin Crawley, Hidenori Tanaka
+**类别**: cs.AI, cond-mat.dis-nn, cs.MA, physics.bio-ph
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12436v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 22afa17a-d13b-4916-bcd0-b9978e147a8f)
+
+---
+
+### RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments
+**作者**: Zimo Wen, Yijin Chen, Yuxuan Cao, Wendi Chen, Yanwen Zou, Wenye Yu, Fuhang Kuang, Han Xue, Jun Lv, Chuan Wen, Cewu Lu
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12424v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a1dd084d-68d5-4335-9b1a-621132f8670f)
+
+---
+
+### MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances
+**作者**: Mingyuan Lei, Yoonchang Sung, Tat-Jen Cham
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12416v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 55c2e3a1-b77f-4dfd-a456-f4ff263e6f0e)
+
+---
+
+### Predicting Alignment Generalization with Value Representations
+**作者**: Andy Liu, Mehar Bhatia, Karolina Stanczak, Mona Diab, Vered Shwartz, Daniel Fried
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12410v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d33f4bc6-2d5d-474d-9197-49a0ffb8a833)
+
+---
+
+### Searching for "Harmful Refusal": A Psychometric Audit of an AI Safety Benchmark
+**作者**: Christopher M. Stewart, Preston Botter, Natalie Sarabosing, Muye Zhang, Rachel Phinnemore, Shalini Ghosh, Hong Shen, Hoda Heidari
+**类别**: cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12409v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: dce08385-433c-41aa-a538-dabb6a2683b4)
+
+---
+
