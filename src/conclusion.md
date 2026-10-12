@@ -78847,3 +78847,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-12)
+
+### Can Language Models Play the Wikipedia Game?
+**作者**: Alexander Hickey, Joanna Knight, James Bishop
+**类别**: cs.AI, cs.IR
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13948v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8da12040-2f2b-407c-82ef-1a5f95471a31)
+
+---
+
+### Hide and Seek: HIDE Concepts to SEEK explanations for black box models
+**作者**: Bhanu Tokas, Rahul Nair, Rockwell Jackson, Hannah Kerner
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13935v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d384dcf5-5470-429f-84d4-a8aa85a78f78)
+
+---
+
+### Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping
+**作者**: Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev, Ivan Rubachev, Daniil Krasylnikov, Artem Babenko
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13909v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 9e84277c-d708-42be-a40a-2a559f8c59ad)
+
+---
+
+### Task Context Shapes Component Roles in Language Models
+**作者**: Sovesh Mohapatra, Dani S Bassett
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13895v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0abd43d3-af2d-4533-b7c4-9c4579810392)
+
+---
+
+### RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics
+**作者**: Weiliang Chen, Song Liao
+**类别**: cs.AI, cs.IR
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13889v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c7685eed-786e-425e-8351-2b247ff5caa4)
+
+---
+
+### X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems
+**作者**: Yeonsung Jung, Zhiyuan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi
+**类别**: cs.AI
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13886v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 597b2238-fbc3-48ae-9998-26f521b08d7d)
+
+---
+
+### A Hardware-Native Trapped-Ion Hybrid Qudit-Oscillator Instruction Set
+**作者**: Masoud Hakimi Heris, Yuan Liu, Frank Mueller
+**类别**: quant-ph, cs.AR, cs.ET
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13843v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 214619a0-519d-4706-8a88-ef952e767838)
+
+---
+
+### Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga
+**作者**: Emilio Ferrara
+**类别**: cs.AI, cs.CL, cs.CY
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13840v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8f996481-dd2f-444a-b7a3-f8497102a6f2)
+
+---
+
+### SpatialASM: Internalizing Active Mentalization for Spatial Reasoning
+**作者**: Yuhong Liu, Shenxi Wu, Junyi Chi, Beichen Zhang, Xuanlang Dai, Jiaqi Wang, Yuhang Zang, Dahua Lin
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13832v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 445c8f10-219b-423d-98f1-9637f8c38f38)
+
+---
+
+### MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents
+**作者**: Jingwei Song, Zhisheng Chen, Bingfan Zeng, Jing Tang, Yubo Hou, Jinhao Jing, Zhengwei Xie, Linfeng Zhang
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-09
+**链接**: http://arxiv.org/abs/2610.13829v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 15b87a32-20d9-472f-9b2e-73a49961efbc)
+
+---
+
