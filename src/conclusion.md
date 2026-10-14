@@ -78951,3 +78951,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-14)
+
+### ChunkAct: Action Chunking for Agentic Robotics
+**作者**: Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang Shang, Emilio Ferrara
+**类别**: cs.RO, cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18874v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e314427c-da90-4d48-b453-edddd6ab5880)
+
+---
+
+### What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study
+**作者**: Mingxuan Yan, Litian Gong, Dihong Huang, Zhixu Li, Tianyu Zhang, Wenqian Zhang, Hefeifei Jiang, Peihao Li, Jian Zhang, Mengfei Zhao, Yikai Tang, Hai Zhai, Zehao Wang, Ruijian Liang, Yanjia Huang, Lin Shao, Changliu Liu, Kaiyu Hang, Zhiwen Fan, Masayoshi Tomizuka, Jianfei Yang, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18869v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: cea169b2-88a8-4c2f-9cdf-41928fe5d273)
+
+---
+
+### Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards
+**作者**: Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh, Nanyun Peng, Kai-Wei Chang, Yong Jae Lee
+**类别**: cs.CL, cs.AI, cs.CV, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18868v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d10b47cf-1db4-44f9-acab-6656c07b671e)
+
+---
+
+### DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning
+**作者**: Minghao Luo, Liang Chen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18862v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6f6c31e0-5d61-4f2b-a35b-45926a94ebc0)
+
+---
+
+### AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards
+**作者**: Xin Gao, Yifan Yang, Xin Li, Pan Wang, Yan Li, Muzhao Tian, Mingxi Cheng, Bei Liu, Kai Qiu, Qi Dai, Dong Chen, Yue Dong, Leandros Tassiulas, Rex Ying, Ji Li, Chong Luo
+**类别**: cs.AI
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18860v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 84fe1290-97df-40ba-93ca-d012621835b6)
+
+---
+
+### Hybrid Reasoning Agents
+**作者**: Jiaru Zou, Yunzhe Qi, Sirui Chen, Federico Bianchi, Shang Zhu, Pan Lu, Jingrui He, James Zou
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18861v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c8c83915-e412-4ca3-81cc-5970568b226a)
+
+---
+
+### Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards
+**作者**: Yuante Li, Junwei Quan, Kai Qiu, Kate Zhang, Yicheng Tao
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18853v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f16c0f5c-4250-4b8a-a8a3-5d22248ab181)
+
+---
+
+### MFG: Multi-turn Feedback Guided Molecular Optimization
+**作者**: Trieu Nguyen, Frazier N. Baker, Ruoxi Gao, Daniel Adu-Ampratwum, Xia Ning
+**类别**: cs.AI, cs.LG, q-bio.QM
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18851v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: bfd74297-cec5-4b16-bde4-e54f7b7efa5f)
+
+---
+
+### LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models
+**作者**: Andrea Yaoyun Cui, Hanyu Wang, Xinyi Wang, Bangzheng Li, Lin Zhang, Zhenggang Tang, Shyamal Buch, Dejia Xu, Matthew Tancik
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18843v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 09bbfe1b-2c4f-4332-b70f-ea2037896aea)
+
+---
+
+### Who Improves the Robot? Toward Physical Recursive Self-Improvement
+**作者**: Hai Zhou, Fan Yang, Zeyi Chen, Lejun Zhang, Chenyang Fu, Jianping Li, Jiayi Zhu, Xianyang Liu, Yingxuan Yang, Lili Meng, Lu Wang, Xinyang Han, Jiankai Sun, Weirui Ye, Guanchu Wang, Wanhua Li, Ming Zhou, Boyi Li, Ming Jin, Kun Shao, Muhao Chen, Guang Chen, Lei Ma, Joey Tianyi Zhou, Costas Spanos, Xia Hu, Mac Schwager, Weinan Zhang, Qian Feng, Shangding Gu
+**类别**: cs.AI, cs.LG, cs.RO
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18842v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 14ab2f86-1e83-401b-9297-1ebe76b42912)
+
+---
+
