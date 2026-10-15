@@ -79055,3 +79055,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-15)
+
+### Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion
+**作者**: Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20606v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 560c27d8-8599-455b-90cc-9f4e5a923401)
+
+---
+
+### Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance
+**作者**: Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20607v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 12a319db-5c93-4293-a855-757249c7d365)
+
+---
+
+### Co-Evolving Acting and Forecasting for Language Agents
+**作者**: Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu, Zhigang Hua, Yan Xie, Shuang Yang, Jiaxuan You
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20597v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fdba7587-c521-4f31-98be-1c2fcdded450)
+
+---
+
+### Your Transformer Is Secretly Elastic
+**作者**: Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts, Cees G. M. Snoek
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20588v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 55309eb8-7c83-4186-b21b-d3a08500464e)
+
+---
+
+### Price of Anarchy of First-Price Auctions in Agentic Markets
+**作者**: Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal, Ian Gemp, Michael Kaisers, Adam Fisch
+**类别**: cs.GT, cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20587v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d9074d33-66cb-436d-a74f-f109ceffe346)
+
+---
+
+### Continuum Attention
+**作者**: Afshin Khadangi
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20586v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0ada02bf-ce33-48ef-b398-eecb62a81d43)
+
+---
+
+### Player-1: Learning to Play from Synthetic Experience
+**作者**: Mingyu Ouyang, Yiran Wang, Siyuan Hu, Xingyilang Yin, Huiqiang Sun, Guangzhi Wang, Junfu Pu, Cheng Cheng, Honghao Chen, Ying Shan, Mike Zheng Shou, Hwee Tou Ng
+**类别**: cs.CV, cs.AI, cs.HC
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20584v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d4fae8c5-20d7-4d16-bf20-21d7d2abdaba)
+
+---
+
+### One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness
+**作者**: Artin Tajdini, Manpreet Kaur, Peng Qi
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20576v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: af3a2d68-385b-4d20-ba5b-3a660e71354b)
+
+---
+
+### Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization
+**作者**: Anna Mei, Michael R. Douglas
+**类别**: cs.LO, cs.AI
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20573v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 19b13c9a-9348-449e-835d-b8bdc9b2d7ea)
+
+---
+
+### Recovering Reliable Supervision via Critique-Guided On-Policy Distillation
+**作者**: Kaixiang Zhao, Tianrun Yu, Shangzhe Li, Yuxiao Yang, Amanda Hughes, Weitong Zhang, Taylor W. Killian
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20572v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8e1b492d-af47-4086-b4ee-3c499dbe22b1)
+
+---
+
