@@ -79159,3 +79159,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-17)
+
+### LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation
+**作者**: Zhixu Li, Keqian Tang, Litian Gong, Jingyu Yao, Wenqian Zhang, Tianze Xu, Zehao Wang, Yuping Wang, Junge Zhang, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22372v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5f33e93b-3d6d-4916-adfd-6211fc1f58ce)
+
+---
+
+### Discovering state-of-the-art quantum circuits with large language models
+**作者**: Andi Gu, Alek H. Kemeny, Susanne F. Yelin, Mikhail D. Lukin
+**类别**: quant-ph, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22367v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 30311a85-1a62-4f5f-8a88-b64e3310c3ae)
+
+---
+
+### T2-z: Test-Time Optimization of Environment Latents for Robotic World Models
+**作者**: Chenyuan Zhou, Yining Hong, Huang Huang, Yunfan Jiang, Wenlong Huang, David Held, Vitor Campagnolo Guizilini, Yue Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Yejin Choi
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22364v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0c70e84d-8c73-4f33-a409-f3a6a813f386)
+
+---
+
+### CoDA: Co-Evolution of Data Engines and Action Policies
+**作者**: Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li, Yuanzhe Liu, Onkar Kishor Susladkar, Fan Wang, Ismini Lourentzou
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22362v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b0ef122b-1906-44b5-b7a1-b1e97fdb199e)
+
+---
+
+### Rethinking Routing Exploration in Modern Mixture-of-Experts
+**作者**: Bingcong Li, Hao Ma, Michael Muehlebach, Niao He, Yi Ma
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22353v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5d5cc889-6987-4641-b2b0-0b33c7cf1193)
+
+---
+
+### FDE-Gym: The Last Mile of AI Delivery
+**作者**: Dongxu Yang, Hongda Yan, Renxin Wang, Baoli Zhang, Haojia Zuo, Ying Zhao, Youmin Chen, Xiaojian Liao, Congming Gao, Tianyang Jiang, Yixiao Chen, Qing Wang, Zhiguo Yu, Xiaqing Li, Yuhao Zhang, Jiawen Sun, Renzhe Xu, De Mi, Tiancheng Wu, Xianya Fu, Xuanlu Zhao, Bo Feng, Meixuan Ren, Guanming Lin, Ziheng Zhou, Xinhua Wang
+**类别**: cs.AI, cs.CL, cs.SE
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22350v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 05f86e24-9b8e-4943-a749-8f3b3ccac464)
+
+---
+
+### MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering
+**作者**: Shangheng Du, Jinxin Shi, Shuaiyu Zhang, Yiming Wu, Junpeng Zhao, Shiyang Feng, Xin Li, Liang He, Xiangchao Yan, Bo Zhang
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22344v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: db66271a-a4e1-4575-ba52-6ea1c7d0cdbc)
+
+---
+
+### GeoState: Learning View-Decoupled Geometry States for 3D World Modeling
+**作者**: Hongchang Liu, Jian Liu, Yujuan Ding, Liang Peng, Xun Jiang, Fei Ma, Xing Xu, Yi Bin
+**类别**: cs.CV, cs.AI, cs.LG, cs.RO
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22343v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6edce8e7-1dfb-42af-8bb6-d4c473e4514e)
+
+---
+
+### 3DCodeVerse: Exploring 3D Worlds as Code
+**作者**: Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong, Wang Qin, Xinlei Yu, Youheng Yao, Jie Zhang, Kun-Yu Lin, Rong Liu, Yinyuan Zhao, Yajie Zhao, Meiqi Guo, Jiebo Luo, Lei Shu, Yunhao Ge, Xinyu Hu, Laurent Itti
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22341v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f461d04c-f64f-4a9b-8b0d-7fe8d4fc2ea2)
+
+---
+
+### Dexterity from Supervised Play
+**作者**: Botao He, Yiming Dou, Yiannis Aloimonos, Jitendra Malik, Akash Sharma, Ruoshi Liu
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22340v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 456b299c-aa8e-4ed0-b586-c6a179829905)
+
+---
+
