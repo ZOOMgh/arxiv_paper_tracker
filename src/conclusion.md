@@ -79367,3 +79367,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-19)
+
+### Rethinking the design space of Vanilla Pixel Diffusion Transformers
+**作者**: Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava, Aniruddha Mahapatra
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23854v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 595f8f10-4e7f-437d-8709-97fe814cda6d)
+
+---
+
+### Behavioral Couplings: From Formation to Behavioral Emergence in Language Models
+**作者**: Dongyoon Hahm, Woogyeol Jin, Dennis Wei, Yi Zhou, Nathalie Baracaldo, Kimin Lee
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23847v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1525b2c4-21a8-4447-9138-271d84cd7700)
+
+---
+
+### AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery
+**作者**: Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov, Julian Killingback, Arnav Singhvi, Ronak Pradeep, Michael Bendersky, James C. Dickerson, Monica S. Lam
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23845v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 7c915678-b51e-4b63-8acf-09a437f72b03)
+
+---
+
+### Self-Building Labs
+**作者**: Jiaru Bai, Yuchi Zhao, Han Hao, Miroslav Bogdanovic, Yang Cao, Varinia Bernales, Alán Aspuru-Guzik
+**类别**: cs.AI, cs.MA, cs.RO
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23826v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a1fd71b8-bd2e-4cca-a5a3-5425f850643d)
+
+---
+
+### Beyond SAEs: Consistent Concept Discovery with Sparse Coding
+**作者**: Jinho Choi, Hyesu Lim, Jaegul Choo, Steffen Schneider
+**类别**: cs.AI
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23801v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6558b7db-907a-43a0-84fd-c2450fe4064b)
+
+---
+
+### FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper
+**作者**: Wei Wang
+**类别**: cs.AI
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23796v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 798c17bb-bc4a-4431-ba4d-01c1f0535109)
+
+---
+
+### DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery
+**作者**: Yuxing Chen, Zhisheng Zhang, Cheng Tang, Wei Li, Minghui Zhang, Ziyan Huang, Shaocong Wei, Jiawei Chen, Junru Hu, Hongze Zhu, Jianghan Shen, Min Cen, Xinyuan Zhu, Yaxue Zhao, Jubo Wang, Yuqiang Li, Chun-Mei Feng, Zongyuan Ge, Rui Su, Jie Xu, Yirong Chen, Xi Xu, Ming Hu
+**类别**: cs.AI
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23791v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5b59bd24-de09-40f7-8446-765afe3bcd61)
+
+---
+
+### TileDRAM: Compiler-Controlled Tile-to-DRAM Layouts for 3D DRAM GPGPUs
+**作者**: Guangyuan Xu, Lanxuan Zhang, Ziyang Li, Zhaoshi Li, Yajun Ha
+**类别**: cs.AR
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23767v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a2465912-1474-4be3-af59-007fc515a3e5)
+
+---
+
+### Agentic AI for Heterogeneous System Design Across Chip, Scale-Up, and Scale-Out Domains
+**作者**: Murali Emani, Kashyap R Manjusha
+**类别**: cs.AR, cs.DC
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23724v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5103549a-6b23-4eca-b90f-9877afd1b6e4)
+
+---
+
+### Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability
+**作者**: Qingshi Wang
+**类别**: cs.AI
+**发布日期**: 2026-10-16
+**链接**: http://arxiv.org/abs/2610.23722v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f7c30bc5-bf89-44da-a2c9-a7e8a868e452)
+
+---
+
