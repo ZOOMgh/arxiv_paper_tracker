@@ -79471,3 +79471,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-20)
+
+### OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory
+**作者**: Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang Zhang, Zhen Yang, Ruiyi Zhang, Nanyun Peng, Zhe Gan, Kai-Wei Chang
+**类别**: cs.CL, cs.AI, cs.CV, cs.LG, cs.MM
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26860v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4588db14-b10e-408d-ba36-a1c74fe489f1)
+
+---
+
+### Reinforcement Learning with Visually Attributable On-Policy Self-Distillation
+**作者**: Shiao Xie, Siyu Chen, Jianwei Lv, Xiandong Li, Yujin Wang
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26856v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 16399282-edf5-4c8b-b320-8461753dfcf9)
+
+---
+
+### CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting
+**作者**: Zehao Wang, Jianpeng Yao, Yuping Wang, Yiping Li, Jiaqi Li, Zhixu Li, Kanghoon Lee, Jinfeng Wang, Cong Liu, Zhaowei Tan, Jinkyoo Park, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26852v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 82ae0eba-9473-46db-8550-bd8ade05fcf3)
+
+---
+
+### Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy
+**作者**: Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu, Zekun Qi, Jun Zheng, Xuchuan Chen, Dairu Liu, Yintianrun Zhang, He Wang, Li Yi
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26848v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c2e833df-adfe-4aea-902e-a027a4b1a5d7)
+
+---
+
+### WeAct: Dynamic Weight Switching as Agent Actions
+**作者**: Rui Shi, Xunjian Yin, Jiacheng Sang, Zichuan Liu, Shuyan Zhou
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26847v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b96ef254-e3ef-434c-a130-8653fde59690)
+
+---
+
+### Train An Imaginative Agent
+**作者**: Jiaxin Ge, Junyi Zhang, Tianning Chai, Hanjun Yoo, Chenyang Wang, Xiuyu Li, Weijia Shi, XuDong Wang, Sewon Min, Luke Zettlemoyer, Trevor Darrell, Haiwen Feng
+**类别**: cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26845v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: de8ae872-6883-4d1b-98a7-431ce11b8af8)
+
+---
+
+### AnyGoal: On World Model Generalization Beyond Expert Rollouts
+**作者**: Heejeong Nam, Divyat Mahajan, Quentin Le Lidec, Randall Balestriero, David Klindt
+**类别**: cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26844v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 890c54b1-60d9-45a2-ac20-de15f14c8ab9)
+
+---
+
+### LatComm: Reusable Context Compression for Latent Communication between Large Language Models
+**作者**: Huawei Lin, Jinting Liu, Tan Yu, Weijie Zhao
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26840v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a0c8d0e3-14c0-45b9-a763-0cb94fea2ec1)
+
+---
+
+### Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy
+**作者**: Ke Zhang, Sahchit Chundur, Jerry Peprah Owusu, Mohammad Javad Abdolhosseini Qomi, Maziar Raissi
+**类别**: cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26836v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b5f051f2-b143-4bb0-ba15-a3044ff782ec)
+
+---
+
+### Kronecker Delta Rule for Long Context Linear Attention
+**作者**: Anamaria-Roberta Hartl, Levente Zólyomi, Michael List, Günter Klambauer, Sebastian Böck, Sepp Hochreiter
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26834v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 08eb33f3-2aaa-45c1-9416-5d8681e66a4e)
+
+---
+
