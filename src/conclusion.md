@@ -79575,3 +79575,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-21)
+
+### Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs
+**作者**: Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron, Gal Chechik, Or Litany, Yoni Kasten, Yuval Atzmon
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG, cs.RO
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28632v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 222e99b2-8637-45eb-8075-017013032ebb)
+
+---
+
+### GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery
+**作者**: Yazhuo Liu, Kunqing Ding, Xiaoguo Gong, Zifeng Wang, Yichen Yang, Yifeng Che, Wen Chen, Josh Kacher, Olivier Pierron, Shigenobu Ogata, Ting Zhu
+**类别**: cond-mat.mtrl-sci, cond-mat.mes-hall, cs.AI, cs.MA
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28629v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 08846e94-9b24-4d0a-b974-999381d3a219)
+
+---
+
+### UniWALM: Unified World Action Language Model for Embodied Robot Control
+**作者**: Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao, Carl Qi, Baichuan Huang, Srinath Sridhar, Dylan Randle, Lillian J. Ratliff, Jose Barreiros, Manikantan Nambi, Jeroen Vanbaar
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28626v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c6861031-7f7f-439e-946e-faee028b3426)
+
+---
+
+### Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets
+**作者**: Jad Yammine, Malek Wahidi, Abrar Anwar, Yan Chang, Mihir Acharya, Anthony Rizk
+**类别**: cs.RO, cs.AI, cs.SE
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28624v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 30b8e62a-f641-477d-93a7-ff60d3cb31a2)
+
+---
+
+### MindView: Benchmarking Generative Multi-View Spatial Intelligence
+**作者**: Yanbo Wang, Siqi Luo, Siyu Zhang, Chenming Zhu, Wenzhao Zheng, Qian Yu, Juncheng Yan, Bin Fu, Tai Wang, Yu Qiao, Yihao Liu, Jiwen Lu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28622v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 87ceeae5-aac7-48ba-9c3a-eb823cfdc732)
+
+---
+
+### Adaptive Multi-Token Prediction: How far should we go?
+**作者**: Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao
+**类别**: cs.AI, cs.LG, eess.SY
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28619v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 28b2bc59-83ef-4f0f-be4d-d2ec48ed8a46)
+
+---
+
+### Semantic Observability for Autonomous Systems Diagnostics
+**作者**: Jitendra Solanki, Anand Todkar, Ziran Min
+**类别**: cs.AI
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28611v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c6eed8f4-4e80-4852-b932-20c0e7b76545)
+
+---
+
+### Benchmarking Arabic Dialects for Math Problems
+**作者**: Noor Abo Mokh, Teresa Lynn, Nizar Habash, Ahmed Elshabrawy, Sara Alhajeri, Alaa Elsetohy, Preslav Nakov, Alham Fikri Aji
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28607v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fdda5720-a492-4b36-9e95-8aff475e9394)
+
+---
+
+### Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates
+**作者**: Maoyuan Li, Haoyuan Li, Zhongsheng Wang, Jiamou Liu
+**类别**: cs.AI
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28604v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fa7e921a-74fb-46f8-8d84-c9feed94fda5)
+
+---
+
+### Turning TS2Vec into a Foundation Model for Time Series Classification
+**作者**: Vasilii Feofanov, Zhenghan Tai, Andrei Ermakov, Irina Rish
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28602v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f20c5fab-1741-4e6c-9fc6-9eff67956c8d)
+
+---
+
