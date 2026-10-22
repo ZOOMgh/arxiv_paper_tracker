@@ -79679,3 +79679,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-22)
+
+### Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation
+**作者**: Zhanshuo Cao, Jiakai Tang, Yuqi Zhou, Sunhao Dai, Jun Xu
+**类别**: cs.IR, cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30128v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 28c694d8-3b79-401e-8732-67e03f384ccf)
+
+---
+
+### PhysiCalWorld: In-Context Physics Calibration for World Models
+**作者**: Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam, Hongze Fu, Joyce Chai, Nima Fazeli, Jeong Joon Park
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30125v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 25c20264-cca0-40a5-a474-27a571062c79)
+
+---
+
+### Environment Duels: A Microcosm of LLM Co-Evolution
+**作者**: Shibo Jin, Zhiqiu Xu, Yiling Zou, Shangyu Gong, Mayur Naik
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30116v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: de1b47b0-65a0-49be-8786-b0d017016189)
+
+---
+
+### The End of Consensus Research?
+**作者**: Clément Burgelin, Rachid Guerraoui, Zicong Hong, Yinan Hu, Anne-Marie Kermarrec, Rafael Pires, Rasmus Moorits Veski, Martijn de Vos
+**类别**: cs.DC, cs.AI
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30114v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ceac9ee2-0672-4f1d-8a23-ed6e80826d99)
+
+---
+
+### Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research
+**作者**: Houde Qian, Zheng Jiang, Wenyi Li, Chenxi Xu, Xinjie Lin, Yuzhao Peng, Ruoyu Han, Youjie Zheng, Kaisen Yang, Qinhuai Na, You Fu, Calvin Xiao
+**类别**: cs.CL, cs.AI, cs.CE
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30113v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: eaf0e7f5-2913-4bc3-9469-28d14d9a4d26)
+
+---
+
+### Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use
+**作者**: Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, Peiyao Xu, Hesen Yang, Runda Liu, Chang Gong, Zhijun Cao, Zechen Bai, Wenzheng Zeng, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Kevin Qinghong Lin, Mike Zheng Shou
+**类别**: cs.RO, cs.AI, cs.CV, cs.MA, cs.MM
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30108v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e36401a7-46c4-4ce6-b34f-cff248b22148)
+
+---
+
+### Asymmetric On-Policy Distillation Learns In-Context Exploration
+**作者**: Sriyash Poddar, Yanda Bao, Jacob Krantz, Matthew Chang, Xavier Puig, Roozbeh Mottaghi, Natasha Jaques, Abhishek Gupta
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30105v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 59d80768-5263-4d24-955e-327813e61721)
+
+---
+
+### BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard
+**作者**: Sonja Topf, Ana Sanchez-Fernandez, Günter Klambauer
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30104v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e1f6184f-6e58-4a5e-bfad-65718c792d79)
+
+---
+
+### Differentially Private Sparse Reward Estimation with Preference Feedback
+**作者**: Meng Ding, Mingxi Lei, Jie Zhang, Jinyan Liu, Di Wang
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30099v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 9f1da192-c762-4a5a-beac-65a1764e2dae)
+
+---
+
+### AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation
+**作者**: Likui Zhang, Zhe Zhu, Zhihao Zhan, Yibo Bai, Hanlin Wang, Dongwei Li, Bin Wang, Tianle Zhang, Xiaodan Liang, Liang Lin
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30097v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c64c7e2b-ed17-42f9-8130-0ab292be6753)
+
+---
+
