@@ -79783,3 +79783,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-23)
+
+### Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning
+**作者**: Mahdi Salmani, Adel Javanmard, Devansh Gupta, Meisam Razaviyayn
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31667v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0dd9c088-fca1-4221-8883-bbf8e9e54b49)
+
+---
+
+### Cost-Aware Abstention for LLM-Based IT Ticket Classification
+**作者**: Sachin Gupta
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31657v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 758675c2-f695-46e6-beeb-58e6c636d3e3)
+
+---
+
+### METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning
+**作者**: Ali Najar, Hosein Hasani, Amir Kooshan Fattah, Yasamin Rajabi, Mahdieh Soleymani Baghshah
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31656v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: dc0eab04-398c-4165-9974-69f8bf5c4e0e)
+
+---
+
+### EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence
+**作者**: Qijin Zhang, Hanzhen Wang, Yuehan Zhao, Haoyu Dai, Yao Shu, Zhongxiang Dai, Shuang Qiu
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31650v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d8a861a3-b505-46f8-8895-f41430eaab37)
+
+---
+
+### Low-Bit N-Gram Embeddings for Language Models
+**作者**: Stephen Chung, Wenyu Du
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31646v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fb1c1e0c-c6ee-4113-a675-7b23818cbbd0)
+
+---
+
+### Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation
+**作者**: Gabriele Dominici, Teague McMillan, Fazl Barez, Marc Langheinrich, Martin Gjoreski
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31639v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 641a7d78-2280-4948-b42d-f8d93be26455)
+
+---
+
+### Ray-by-Ray: Fine-Grained Resource Management for GPU Ray Tracing Units
+**作者**: Junrui Pan, Cesar Avalos Baddouh, Kai Ze Ee, Timothy G. Rogers
+**类别**: cs.AR
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31630v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 84fe9b5f-3214-4a62-86ba-4d5cdb697c01)
+
+---
+
+### Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3
+**作者**: Barış Alparslan, Sandy Tanwisuth, Caleb Petterson
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31624v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fd9a900f-860b-4e1a-804b-01c1952ecab6)
+
+---
+
+### How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions
+**作者**: Miguel Mochizuki Silva, Samuel Ismael, Mateus C. Dias, Thaís Gaudêncio, Yuri Malheiros, Barufaldi
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31606v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: aa6ede6e-d731-4f77-8d74-d1fad7e11562)
+
+---
+
+### Simulated Control Evals
+**作者**: Jeffrey Olmo, David Zhang, Tyler Tracy
+**类别**: cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31593v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a7e2c107-4177-407d-b8dd-1eb13d1e11b8)
+
+---
+
