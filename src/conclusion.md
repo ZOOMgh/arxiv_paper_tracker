@@ -80095,3 +80095,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-26)
+
+### SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning
+**作者**: Yuhan Liu, Lianhui Qin, Shenji Wan
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32978v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 19222199-83c1-4269-a3b2-5b1c50e4c927)
+
+---
+
+### RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms
+**作者**: Xi Chen, Fengqi Hu, Zeyu Shen, Jiaying Xu, Shangding Gu, Pan Xu, Anqi Liu, Laixi Shi
+**类别**: cs.LG, cs.AI, cs.RO
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32971v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: bb101a8b-3203-4815-881a-9cfdb6eb0b34)
+
+---
+
+### DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection
+**作者**: Amber Xie, Jiawei Fu, Xiaofeng Guo, Carmelo Sferrazza, Guanya Shi, Haozhi Qi
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32969v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c0e672ec-0c33-4d12-b36c-9cba9bcb7f00)
+
+---
+
+### Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models
+**作者**: Dianye Huang, Jiamei Guo, Yue Zhou, Mingde Li, Yi Xiong, Wei Wang, Nassir Navab, Zhongliang Jiang
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32948v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 62a23fa1-4866-40ef-83a3-3184690f5597)
+
+---
+
+### Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms
+**作者**: Yuhang Ji, Fasheng Xu, Tianjun Feng
+**类别**: econ.TH, cs.AI
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32945v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 23fe35aa-3bec-447b-9fdf-68d77838640e)
+
+---
+
+### Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model
+**作者**: Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32933v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 7f6ced15-137a-4a24-b911-4f44159f0831)
+
+---
+
+### SemantEq: Faithful Bidirectional Equivalence of Formal Statements
+**作者**: Xinrui Li, Pawan Sasanka Ammanamanchi, Siddharth Bhat, Rianna Jamdar, Yongxi Lin, Stella Biderman
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32919v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b4d7d09a-a665-42d5-afe8-9c45122921ed)
+
+---
+
+### Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations
+**作者**: Sadra Emami, Benjamin Weigell, Mohammad Reza Mousavi, Gunel Jahangirova, Hugo Araujo, Bernhard Bauer
+**类别**: cs.SE, cs.AI
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32891v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 328ad4ae-8da5-4f01-959a-6d23dfcbc744)
+
+---
+
+### Closing the Modality Gap via Simplex-Constrained Representations
+**作者**: Shubham Gupta, Siva Reddy, Perouz Taslakian, Valentina Zantedeschi, Cem Subakan
+**类别**: cs.AI, cs.CV
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32890v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 77568e98-ebb4-4b1b-9ba6-3f98de4442da)
+
+---
+
+### NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding
+**作者**: Nilesh Prasad Pandey, Jangseon Park, Jason Kong, Onat Gungor, Tajana Rosing
+**类别**: cs.AI
+**发布日期**: 2026-10-23
+**链接**: http://arxiv.org/abs/2610.32881v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 66844b5c-e000-4124-96f1-00f250eaf13e)
+
+---
+
