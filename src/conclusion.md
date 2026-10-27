@@ -80199,3 +80199,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-27)
+
+### Retriever-Free Retrieval: Navigating Documents with Decision Models
+**作者**: Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha Krishnan, Kilian Q. Weinberger
+**类别**: cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35868v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 37f563cd-5ad9-4816-9144-d5a67aaf4038)
+
+---
+
+### Center-of-Mass Interpretation of Evolution Strategies
+**作者**: Akshat Gupta
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35865v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ccd8a85e-2659-45c9-a247-366b30f4f593)
+
+---
+
+### Learning Force-Reactive Humanoid Loco-Manipulation
+**作者**: Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan Yang, Chen Feng, Guanya Shi, Haozhi Qi
+**类别**: cs.RO, cs.AI, cs.LG, eess.SY
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35862v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 266d5470-e71b-4bdb-bc3c-8742a2ee1e70)
+
+---
+
+### Patient-specific rubric-based evaluation of large language models across longitudinal cancer care
+**作者**: Wei-Wei Zhang, Pengkai Wang, Yan Li, Zhijie Sang, Guan-Qun Zhou, Jun-Yan Li, Shu-Han Zhou, Pei-Wen Liu, Ting-Xi Tang, Min Tang, Zhitian Hou, Jianmin Wu, Jian Guan, i Lin, Hongxia Yang, Ying Sun
+**类别**: cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35847v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f3fd385c-aaa3-4afe-91ac-265161d7e6d9)
+
+---
+
+### I-HITL: Inalienable Human-in-the-Loop
+**作者**: Samuel Breckenridge, Dani Vilardell, Wenhao Wang, Fan Zhang, Ari Juels
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35835v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 64fcb399-21f5-4a7a-a1b6-1f31a7868518)
+
+---
+
+### Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy
+**作者**: Yifei Yao, Yude Zou, Guanbo Jiao, Xing Gao, Ning Gao, Yukai Wang, Jiantong Chen, Zihou Zhu, Xinyu Li, Ningyu Yan, Shuai Wang, Jianming Ma, Haoyu Guo, Weinan Zhang, Chunhua Shen
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35832v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b9fc1503-fd19-4ea1-9d01-762fbf669826)
+
+---
+
+### Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models
+**作者**: Amine Lbath, Massih-Reza Amini
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35829v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 1d6b374b-5a1f-43fd-aa2a-29d9a223c6ab)
+
+---
+
+### Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent
+**作者**: Benjamin Pikus, Daniel Saunders, Mircea Mironenco, Salman Mohammadi, Mathew Mathew, Sirou Zhu, Divya Makkar, Xuhua Huang, Qinbo Li, Supreeth Narasimhaswamy, Siyuan Cen, Thomas Neff, Dejia Xu, Shyamal Buch
+**类别**: cs.RO, cs.AI, cs.CV, cs.LG
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35817v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 7cd1b480-8a70-408e-b4d2-e49c34e9b82a)
+
+---
+
+### Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models
+**作者**: Aidar Myrzakhan, Zhiqiang Shen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35804v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 07e7a103-3fa3-4913-9ece-01351319e713)
+
+---
+
+### Game theory of academic effort and hiring in the age of AI
+**作者**: Saptarshi Pal, Peter S. Park
+**类别**: cs.AI, cs.CY, cs.GT
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35802v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 3d063938-588a-4dc4-ac7e-4cfb23484fca)
+
+---
+
