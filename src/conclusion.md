@@ -80303,3 +80303,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-28)
+
+### Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction
+**作者**: Prakhar Kaushik, Soumava Paul, Alan Yuille
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37668v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 93a5de1b-3a07-4e72-b823-11ba9617d253)
+
+---
+
+### ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
+**作者**: Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen, Yu-Chiang Frank Wang, Seungryong Kim, Fu-En Yang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37666v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 9d736bfa-065d-43dd-877b-8495095d6fc1)
+
+---
+
+### Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops
+**作者**: Aakash Sarkar, Ananya Mukherjee, Motoshige Sato
+**类别**: cs.LG, cs.AI, physics.comp-ph
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37656v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 54f20b1d-1ac7-4c30-9867-55145451ddb5)
+
+---
+
+### KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry
+**作者**: Wenqing Peng, Michael Boy, Zhi-Song Liu
+**类别**: cs.AI
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37655v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d7d735fe-bcdd-4bde-a972-40fcf97622d5)
+
+---
+
+### Can LLMs Uncover Hidden Physical Laws through Free Exploration?
+**作者**: Zhen Yang, Wen Wang, Xander Xu, Ying-Cong Chen
+**类别**: cs.CL, cs.AI, cs.MA
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37649v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e4d21ead-f6f0-47e2-82d2-4c1eba68547a)
+
+---
+
+### MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control
+**作者**: Athanasios Glentis, Dawei Li, Mingyi Hong
+**类别**: cs.LG, cs.AI, math.OC
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37647v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f7397d07-9baf-470d-b6cc-67f4d3b39e89)
+
+---
+
+### What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models
+**作者**: Chang Su, Bin Wu, Emine Yilmaz, Yao Lu
+**类别**: cs.AI
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37631v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: ca17d14b-b3a1-408d-9d97-44f9386246d9)
+
+---
+
+### Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions
+**作者**: Anouar Imel, Imad Charradi, Abderrahman Sghir, Khalil El Khammar
+**类别**: cs.AI, cs.CL, cs.MA, cs.SI
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37624v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c851d219-3f04-459b-ade2-40cdf37d380a)
+
+---
+
+### VideoLVR: Latent Visual Reasoning over Grounded Video Evidence
+**作者**: Shilong Li, Xingyuan Bu, Hao Shi, Yun Xing, Weixin Feng, Qiangpeng Yang, Shilei Wen
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37613v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 114d956f-393f-4805-aa10-8ed8cbeaa9f2)
+
+---
+
+### Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence
+**作者**: Yunuo Wang, Maoyuan Chen, Yuanjin Huang, Xing Liu
+**类别**: cs.SD, cs.AI
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37605v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 92a9f866-51bd-4c41-b6c7-e40784a7018f)
+
+---
+
