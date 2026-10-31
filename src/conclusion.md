@@ -80615,3 +80615,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-31)
+
+### Rethinking Neural Thickets Without Weight Perturbations
+**作者**: Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez, Loic Landrieu
+**类别**: cs.LG, cs.AI, cs.CV
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40649v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 2a377ac6-ac4d-44a6-b368-ad246d4a4fd7)
+
+---
+
+### Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers
+**作者**: Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai, Ziwei Liu
+**类别**: cs.CV, cs.AI, cs.LG, cs.NE
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40647v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 861ded13-4da0-4835-9592-0e74903eb7a4)
+
+---
+
+### Luggage re-identification: A study of strategies towards a real-world application
+**作者**: Quentin Dhôte, Romaric Audigier
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40643v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: e7b2ca62-11fd-4365-b7c8-cf63e01252a7)
+
+---
+
+### From extreme weather to agricultural consequences with agentic AI
+**作者**: Minghan Yu, Mengyu Dai, Yixin Wen, Haizhao Yang
+**类别**: physics.ao-ph, cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40641v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: f79fbf22-7629-4b1d-9613-5afd8ec21c4a)
+
+---
+
+### Probing Spatial State Representations in Visual Foundation Models
+**作者**: Baiqiao Yin, Zhongang Cai, Ruisi Wang, Qiwei Liang, Lei Yang, Ziwei Liu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40636v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6517adac-d50a-4115-9eac-ed5366b8a591)
+
+---
+
+### TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races
+**作者**: Tom Sander, Pierre Fernandez, Itai Gat, Haiming Bao, Jiaxin Shi, Jason Park, Valeriu Lacatusu, Sylvestre-Alvise Rebuffi, Hongyan Chang, Hady Elsahar, Tomáš Souček, Tuan Tran, Surya Parimi, Alexandre Mourachko
+**类别**: cs.CR, cs.AI, cs.CL
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40613v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 6c080bb9-3d8b-41e6-8337-b4f551df6717)
+
+---
+
+### When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder
+**作者**: A. J. A. Jubayer Talukder, Mohammad Ariful Haque
+**类别**: cs.CL, cs.AI, cs.HC
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40611v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 38f82c19-793c-48e3-b1af-0d118a378bae)
+
+---
+
+### Collaborative AI agents for autonomous experimental research with solid-state quantum spins
+**作者**: El Mustapha Mansouri, Eikichi Kimura, Masato Koga, Keigo Arai
+**类别**: cs.AI, cs.MA, quant-ph
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40589v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 5c00f8e9-803a-4109-8671-fb04ed6e2441)
+
+---
+
+### Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In
+**作者**: Leonidas Raghav
+**类别**: cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40588v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: c35cbc5b-0f0c-4fc3-b1eb-9b1a189f8757)
+
+---
+
+### Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond
+**作者**: Yalin E. Sagduyu, Tugba Erpek, Sastry Kompella
+**类别**: cs.NI, cs.AI, cs.LG, eess.SP
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40586v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 2d0cb656-339d-4cb1-b0d1-ad97e604bf78)
+
+---
+
