@@ -80823,3 +80823,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-02)
+
+### Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention
+**作者**: Ales Kubicek, Andrea Caciolai, Liangzu Peng, Sukrit Sumant, Benjamin Hoover, Fraser Greenlee, Ruairidh M. Battleday, Radim Urban, Torsten Hoefler, James C. R. Whittington
+**类别**: cs.AI
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42147v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 580e1105-11f6-4912-8999-097463e00aa0)
+
+---
+
+### Hierarchical World Models with Implicit Dynamics
+**作者**: Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, Nicolas Ballas, Mido Assran, Lerrel Pinto, Yann LeCun
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42146v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 829b6f9d-4ee8-4baa-95a4-58e6eb594711)
+
+---
+
+### RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory
+**作者**: Shengguang Wu, Suning Huang, Cherie Ho, Ria Doshi, Hao Zhu, Serena Yeung-Levy
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42141v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 02f1f485-baad-47d1-aa79-1aea9bdcc459)
+
+---
+
+### ACCT: Asymmetric Cross-LLM Context Transfer
+**作者**: Yuzhe Liu, Haolin Tian, Tonghan Wang
+**类别**: cs.AI
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42116v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 0f730d39-1581-477a-a747-fb4e19843164)
+
+---
+
+### Subquadratic Attention with a Hierarchical Tree-Structured Indexer
+**作者**: Leon Lufkin, Cutter Dawes, Alexander Speicher, Kamesh Krishnamurthy, Tomás Figliolia, Beren Millidge
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42112v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 80561208-1c44-44fc-a085-3c6bdbb4807a)
+
+---
+
+### CausalWAM: Learning the Causes of Actions in World Action Models
+**作者**: Juntao Cheng, Jinzhou Tang, Fan Feng, Henrik I. Christensen, Yujia Zheng
+**类别**: cs.AI, cs.RO, stat.ML
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42096v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 098a3770-c110-4799-9309-5d6b284cc77e)
+
+---
+
+### The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results
+**作者**: Omer Asim Ozturk, Cihan Aydiner
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42066v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: dd53ac19-6a61-458f-bb1d-035ccd7074e7)
+
+---
+
+### CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness
+**作者**: Xiao Yu, Justin Chih-Yao Chen, Zaid Khan, Hyunji Lee, Mohit Bansal
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42054v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d0668df8-8490-4076-9648-08a699c3ecc4)
+
+---
+
+### Near-Optimal Second-Order Convex Finite-Sum Optimization under Individual Smoothness
+**作者**: Xinliang Zhang, Lesi Chen, Zonghan Li, Jingzhao Zhang
+**类别**: math.OC, cs.AI, stat.ML
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42040v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fc462006-f148-4380-bc5b-a27136094322)
+
+---
+
+### Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice
+**作者**: Artin Yousefi, Aizierjiang Aiersilan, Lorien C Abroms, David A Broniatowski
+**类别**: cs.AI
+**发布日期**: 2026-10-30
+**链接**: http://arxiv.org/abs/2610.42039v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b1cb70db-81cf-4125-aaaa-5ec83ce49a53)
+
+---
+
