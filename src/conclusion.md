@@ -80927,3 +80927,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-03)
+
+### Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations
+**作者**: Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan Salakhutdinov
+**类别**: cs.RO, cs.AI, cs.CV, cs.LG, eess.SY
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03647v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fef5d524-bc9d-4cd0-b240-b69dbfa31b8f)
+
+---
+
+### Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation
+**作者**: Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov, Deepak Pathak
+**类别**: cs.RO, cs.AI, cs.CV, cs.LG, eess.SY
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03648v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8677bdfb-0e92-43f1-bbc4-6668aa1cced1)
+
+---
+
+### From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles
+**作者**: Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock, Mykyta Ielanskyi, Maximilian Heisinger, Erich Kobler
+**类别**: cs.AI
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03641v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: fda912de-adf6-4113-879e-b621fa6d7c3a)
+
+---
+
+### WebHarbor: Docking Real Websites for Evolving GUI Agent Environments
+**作者**: Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, Kangyu Zhu, Lama Moukheiber, Mufan Qiu, Peng Xia, Qihan Sun, Qingwei Lin, Qiushi Sun, Ruichen Zhang, Shuqing Luo, Si Qin, Sicheng Fan, Tao Xiong, Wenlin Yao, Xinyu Zhang, Xinyue Zeng, Xuanrui Li, Xuchao Zhang, Yian Wang, Yichao Liu, Yiming Liang, Yiyang Zhou, Yizhu Jiao, Yuetai Li, Yurun Chen, Yuxuan Zhang, Zheyuan Yang, Zhiyuan Yao, Zhongyang Li, Zihao Li, Zili Wang, Jianfeng Gao, Huaxiu Yao
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03634v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 837ff21d-a196-4634-afc3-8bcae9477a02)
+
+---
+
+### D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models
+**作者**: Marius Memmel, Shawn Yin, Urvi Rutia, Angad Wadhwa, Eldon Li, Gavin Angeloff, Ankit Goyal, Jesse Zhang, Dieter Fox, Fabio Ramos, Anqi Li, Abhishek Gupta
+**类别**: cs.RO, cs.AI, cs.CL, cs.LG, eess.SY
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03622v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 60fec9e1-76be-409b-8688-1ae37cb83e63)
+
+---
+
+### Strategist: Evolving Reasoning with Agents
+**作者**: Taiming Lu, Qi Xu, Zhigang Hua, Zhuang Liu
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03618v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: cfb6a951-6d1d-418d-9bc6-3bb28dccc0a0)
+
+---
+
+### Tracing the Scientific Discovery Capacity of LLMs to Their Training Data
+**作者**: Arda Uzunoglu, Mahler Revsine, Michael Schatz, Benjamin Van Durme, Mehrdad Farajtabar, Daniel Khashabi, Eric Nalisnick
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03617v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: bcd1214a-fe9a-4b12-8187-213b39a2dd19)
+
+---
+
+### DiabAgent: Toward Agentic Physiological Control
+**作者**: Chengxi Li, Shaoxuan Li, Deyao Hong, Qingle Liu, Yi Huang, Puheng Bian, Minzhi Xu, Lanyue Zhang, Mingze Sun, Xin Li, Calvin Xiao, Shengyuan Wang, Huan-ang Gao, Jiazheng Xu, Kaisen Yang, Hongning Wang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03601v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: aa3892fc-b750-4cc9-9753-ce329c6dc55d)
+
+---
+
+### Four Bridges: Measuring Deception Propensity in a Multi-Agent Game
+**作者**: Raphael Casey, Michael Simeone, Alberto Tosato, Florian Ernst, Kemal El Moujahid, James Tamplin, Tommaso Tosato
+**类别**: cs.AI, cs.MA
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03600v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: b84b7b6e-45f0-4c1d-8f32-c2e0c87304b0)
+
+---
+
+### Spacetime Emergence in the Memory of a Learning Agent
+**作者**: Philip A. LeMaitre, T. Rick Perche
+**类别**: quant-ph, cs.AI, cs.LG, gr-qc
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03596v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 98ba40de-0a12-4347-a16d-867fa96aa5f4)
+
+---
+
