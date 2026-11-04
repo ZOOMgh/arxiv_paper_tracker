@@ -81031,3 +81031,107 @@ NOAH为患者级预测提供了新的范式，将视角从“单次就诊”或�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-04)
+
+### DreamX: Video Diffusion Model is a Universal Latent Action Learner
+**作者**: Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park, Seongchan Kim, Eunbeen Hong, Soowon Son, Fu-En Yang, Seungryong Kim
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05377v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d0353bac-7d15-4903-8eb0-5f8e38742648)
+
+---
+
+### From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence
+**作者**: Hao Fei
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05376v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 530a8f6f-e1b0-473d-8cc4-1aaee9481c7b)
+
+---
+
+### Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization
+**作者**: Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy, Bhuvnesh Kumar, Parivesh Choudhary
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05373v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: a01a4956-14a5-4d71-98ed-a27abccb210d)
+
+---
+
+### Suppressing Misaligned Behaviors in Language Models, Durably
+**作者**: Luxi He, Pengcheng Jiang, Jifan Zhang, Jiawei Han, Danqi Chen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05358v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 8a12917c-3c12-4d86-a841-20787412d30c)
+
+---
+
+### Adversarial Speculative Reasoning Improves Long Horizon Agents
+**作者**: Hongyin Luo, Wei Fang, Lijie Yang, Owen Stepan, Daniel Suit, Jeff Krapf, Dana Wensberg, Jack O'Brien
+**类别**: cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05345v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 739b5f03-19e1-494c-9772-499681d0118b)
+
+---
+
+### Weight-space programming for auditing clinical decision networks
+**作者**: Humza Nusrat, Omar Nusrat
+**类别**: physics.med-ph, cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05341v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: d22949fb-0e3a-4715-b9bb-291eaebd7b17)
+
+---
+
+### MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection
+**作者**: Omar Nusrat
+**类别**: physics.med-ph, cs.AI, cs.CL
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05340v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 148337b2-0f97-497b-ba36-dd9baa4aef5c)
+
+---
+
+### A simple adaptive accelerated optimistic dual averaging method for unconstrained convex optimization in $p$-norm geometry
+**作者**: Bowen Li, Danqing Zhou, Chuan He
+**类别**: math.OC, cs.AI, cs.LG, stat.ML
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05334v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: bbb2fad6-65b5-436c-b0f9-5010738268dc)
+
+---
+
+### PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data
+**作者**: Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05320v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 57aabe55-a25c-48c8-a8c5-aad0063c4998)
+
+---
+
+### HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation
+**作者**: Zhen Tao, Xun Zhou, Xuhui Chen, Ziyue Qiao, Qingqiang Sun
+**类别**: cs.IR, cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05319v1
+
+**论文分析出错**: Authentication Fails, Your api key: ****9c8f is invalid (request_id: 4373fc47-9c5e-4510-9455-ec41f8b1a3d6)
+
+---
+
